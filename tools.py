@@ -1,6 +1,9 @@
 import os
 import json
 
+from datetime import date
+
+
 from translator import translate
 
 
@@ -48,7 +51,7 @@ def add_words(words, translations, type, file):
         json.dump(data, f, indent=3)
 
 
-if __name__ == "__main__":
+def write():
 
     file = os.path.join('myvoc', 'kapitel7.json')
     translations = []
@@ -79,3 +82,33 @@ if __name__ == "__main__":
         translations.append(translate(word, src='de', dest='en'))
 
     add_words(adverben, translations, 'adjektive', file)
+
+
+def read():
+
+    file = os.path.join('myvoc', 'kapitel6.json')
+    out = os.path.join('myvoc', 'kapitel6_01.json')
+    res = []
+
+    with open(file, 'r') as fp:
+        voc = json.load(fp)
+        today = date.today()
+
+        for t, words in voc.items():
+            for word in words:
+                res.append({
+                    'de': word[0], 
+                    'en': word[1], 
+                    'type': t, 
+                    'date': today.isoformat(),
+                    'rate': 0
+                    })
+    
+    with open(out, 'w', newline='') as fp:
+
+        json.dump(res, fp, indent=3)
+
+
+if __name__ == "__main__":
+
+    read()

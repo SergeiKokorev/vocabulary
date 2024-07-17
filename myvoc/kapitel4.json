@@ -1,436 +1,751 @@
-{
-   "verbs": [
-      [
-         "anfangen",
-         "begin"
-      ],
-      [
-         "anziehen",
-         "put on"
-      ],
-      [
-         "aufhoren",
-         "stop"
-      ],
-      [
-         "aufmachen",
-         "open up"
-      ],
-      [
-         "aufraumen",
-         "clean up"
-      ],
-      [
-         "aufstehen",
-         "stand up"
-      ],
-      [
-         "bedienen",
-         "serve"
-      ],
-      [
-         "bescreiben",
-         "describe"
-      ],
-      [
-         "bringen",
-         "bring"
-      ],
-      [
-         "durfen",
-         "may"
-      ],
-      [
-         "duschen",
-         "have a shower"
-      ],
-      [
-         "einkaufen",
-         "shopping"
-      ],
-      [
-         "einladen",
-         "invite"
-      ],
-      [
-         "feiern",
-         "celebrate"
-      ],
-      [
-         "fernsehen",
-         "TV"
-      ],
-      [
-         "fotografieren",
-         "taking photos"
-      ],
-      [
-         "fruhstucken",
-         "have breakfast"
-      ],
-      [
-         "holen",
-         "fetch"
-      ],
-      [
-         "kontrollieren",
-         "check"
-      ],
-      [
-         "konnen",
-         "can"
-      ],
-      [
-         "messen",
-         "measure"
-      ],
-      [
-         "mitbringen",
-         "bring along"
-      ],
-      [
-         "mitkommen",
-         "come along"
-      ],
-      [
-         "mussen",
-         "must"
-      ],
-      [
-         "ordnen",
-         "arrange"
-      ],
-      [
-         "rauchen",
-         "smoke"
-      ],
-      [
-         "schlafen",
-         "sleep"
-      ],
-      [
-         "schneiden",
-         "cut"
-      ],
-      [
-         "schwimmen",
-         "to swim"
-      ],
-      [
-         "sehen",
-         "see"
-      ],
-      [
-         "spazieren gehen",
-         "go for a stroll"
-      ],
-      [
-         "stattfinden",
-         "take place"
-      ],
-      [
-         "storen",
-         "disturb"
-      ],
-      [
-         "tanzen",
-         "dance"
-      ],
-      [
-         "vergessen",
-         "forget"
-      ],
-      [
-         "vergleichen",
-         "compare"
-      ],
-      [
-         "vorbereiten",
-         "prepare"
-      ],
-      [
-         "vorhaben",
-         "plan"
-      ],
-      [
-         "zeichnen",
-         "draw"
-      ],
-      [
-         "zuhoren",
-         "listen"
-      ]
-   ],
-   "nouns": [
-      [
-         "der Abend",
-         "the evening"
-      ],
-      [
-         "die Ansichtskarte",
-         "the postcard"
-      ],
-      [
-         "die Arbeit",
-         "the work"
-      ],
-      [
-         "der Ausflug",
-         "the excursion"
-      ],
-      [
-         "der Backer",
-         "the Baker"
-      ],
-      [
-         "die Bank",
-         "the Bank"
-      ],
-      [
-         "die Bar",
-         "the bar"
-      ],
-      [
-         "die Bibliothek",
-         "the library"
-      ],
-      [
-         "das Buch",
-         "the book"
-      ],
-      [
-         "das Cafe",
-         "the cafe"
-      ],
-      [
-         "die Diskothek",
-         "the disco"
-      ],
-      [
-         "der Donnerstag",
-         "Thursday"
-      ],
-      [
-         "die Dusche",
-         "the shower"
-      ],
-      [
-         "der Eintritt",
-         "the entry"
-      ],
-      [
-         "das Esses",
-         "the dining"
-      ],
-      [
-         "das Fernsehen",
-         "the television"
-      ],
-      [
-         "das Fieber",
-         "the fever"
-      ],
-      [
-         "der Film",
-         "the film"
-      ],
-      [
-         "der Freizeit",
-         "leisure"
-      ],
-      [
-         "die Friseurin",
-         "the hairdresser"
-      ],
-      [
-         "der Gast",
-         "the guest"
-      ],
-      [
-         "der Grus",
-         "the Gruss"
-      ],
-      [
-         "der Juli",
-         "July"
-      ],
-      [
-         "die Kellner",
-         "the waiters"
-      ],
-      [
-         "das Kino",
-         "the cinema"
-      ],
-      [
-         "das Kleid",
-         "the dress"
-      ],
-      [
-         "das Krankenhaus",
-         "the hospital"
-      ],
-      [
-         "die Krankenschwester",
-         "the nurse"
-      ],
-      [
-         "die Lehrerin",
-         "the teacher"
-      ],
-      [
-         "die Mannschaft",
-         "the team"
-      ],
-      [
-         "die Maschine",
-         "the machine"
-      ],
-      [
-         "das Meer",
-         "the sea"
-      ],
-      [
-         "der Mensch",
-         "the human being"
-      ],
-      [
-         "der Mittag",
-         "the noon"
-      ],
-      [
-         "das Mittagessen",
-         "lunch"
-      ],
-      [
-         "der Mittwoch",
-         "Wednesday"
-      ],
-      [
-         "der Montag",
-         "the Monday"
-      ],
-      [
-         "die Musik",
-         "the music"
-      ],
-      [
-         "der Passagier",
-         "the passenger"
-      ],
-      [
-         "die Pause",
-         "the break"
-      ],
-      [
-         "das Restaurant",
-         "the restaurant"
-      ],
-      [
-         "der Samstag",
-         "the Saturday"
-      ],
-      [
-         "der Satz",
-         "the sentence"
-      ],
-      [
-         "das Schild",
-         "the shield"
-      ],
-      [
-         "das Schwimmbad",
-         "the pool"
-      ],
-      [
-         "die Situation",
-         "the situation"
-      ],
-      [
-         "der Sonnabend",
-         "Saturday"
-      ],
-      [
-         "der Sonntag",
-         "Sunday"
-      ],
-      [
-         "der Spaziergang",
-         "the walk"
-      ],
-      [
-         "der Tanz",
-         "the dance"
-      ],
-      [
-         "die Torte",
-         "the pie"
-      ],
-      [
-         "die Uhrzeit",
-         "the time"
-      ],
-      [
-         "der Verband",
-         "the association"
-      ],
-      [
-         "das Viertel",
-         "the quarter"
-      ],
-      [
-         "der Vortrag",
-         "the presentation"
-      ],
-      [
-         "die Wohnung",
-         "the apartment"
-      ],
-      [
-         "die Zeitung",
-         "the newspaper"
-      ],
-      [
-         "die Zigarette",
-         "the cigarette"
-      ]
-   ],
-   "adjectives": [
-      [
-         "geoffnet",
-         "open"
-      ],
-      [
-         "geschlossen",
-         "closed"
-      ],
-      [
-         "herrlich",
-         "splendid"
-      ],
-      [
-         "leise",
-         "quiet"
-      ],
-      [
-         "nachst",
-         "next"
-      ],
-      [
-         "nett",
-         "kind"
-      ],
-      [
-         "obligatorisch",
-         "mandatory"
-      ],
-      [
-         "spat",
-         "late"
-      ],
-      [
-         "verboten",
-         "forbidden"
-      ]
-   ]
-}
+[
+   {
+      "de": "anfangen",
+      "en": "begin",
+      "type": "verbs",
+      "date": "2024-07-17",
+      "rate": 0
+   },
+   {
+      "de": "anziehen",
+      "en": "put on",
+      "type": "verbs",
+      "date": "2024-07-17",
+      "rate": 0
+   },
+   {
+      "de": "aufhoren",
+      "en": "stop",
+      "type": "verbs",
+      "date": "2024-07-17",
+      "rate": 0
+   },
+   {
+      "de": "aufmachen",
+      "en": "open up",
+      "type": "verbs",
+      "date": "2024-07-17",
+      "rate": 0
+   },
+   {
+      "de": "aufraumen",
+      "en": "clean up",
+      "type": "verbs",
+      "date": "2024-07-17",
+      "rate": 0
+   },
+   {
+      "de": "aufstehen",
+      "en": "stand up",
+      "type": "verbs",
+      "date": "2024-07-17",
+      "rate": 0
+   },
+   {
+      "de": "bedienen",
+      "en": "serve",
+      "type": "verbs",
+      "date": "2024-07-17",
+      "rate": 0
+   },
+   {
+      "de": "bescreiben",
+      "en": "describe",
+      "type": "verbs",
+      "date": "2024-07-17",
+      "rate": 0
+   },
+   {
+      "de": "bringen",
+      "en": "bring",
+      "type": "verbs",
+      "date": "2024-07-17",
+      "rate": 0
+   },
+   {
+      "de": "durfen",
+      "en": "may",
+      "type": "verbs",
+      "date": "2024-07-17",
+      "rate": 0
+   },
+   {
+      "de": "duschen",
+      "en": "have a shower",
+      "type": "verbs",
+      "date": "2024-07-17",
+      "rate": 0
+   },
+   {
+      "de": "einkaufen",
+      "en": "shopping",
+      "type": "verbs",
+      "date": "2024-07-17",
+      "rate": 1
+   },
+   {
+      "de": "einladen",
+      "en": "invite",
+      "type": "verbs",
+      "date": "2024-07-17",
+      "rate": 0
+   },
+   {
+      "de": "feiern",
+      "en": "celebrate",
+      "type": "verbs",
+      "date": "2024-07-17",
+      "rate": 0
+   },
+   {
+      "de": "fernsehen",
+      "en": "watch TV",
+      "type": "verbs",
+      "date": "2024-07-17",
+      "rate": 0
+   },
+   {
+      "de": "fotografieren",
+      "en": "taking photos",
+      "type": "verbs",
+      "date": "2024-07-17",
+      "rate": 0
+   },
+   {
+      "de": "fruhstucken",
+      "en": "have breakfast",
+      "type": "verbs",
+      "date": "2024-07-17",
+      "rate": 0
+   },
+   {
+      "de": "holen",
+      "en": "pick up",
+      "type": "verbs",
+      "date": "2024-07-17",
+      "rate": 0
+   },
+   {
+      "de": "kontrollieren",
+      "en": "check",
+      "type": "verbs",
+      "date": "2024-07-17",
+      "rate": 0
+   },
+   {
+      "de": "konnen",
+      "en": "can",
+      "type": "verbs",
+      "date": "2024-07-17",
+      "rate": 0
+   },
+   {
+      "de": "messen",
+      "en": "measure",
+      "type": "verbs",
+      "date": "2024-07-17",
+      "rate": 0
+   },
+   {
+      "de": "mitbringen",
+      "en": "bring along",
+      "type": "verbs",
+      "date": "2024-07-17",
+      "rate": 0
+   },
+   {
+      "de": "mitkommen",
+      "en": "come along",
+      "type": "verbs",
+      "date": "2024-07-17",
+      "rate": 1
+   },
+   {
+      "de": "mussen",
+      "en": "must",
+      "type": "verbs",
+      "date": "2024-07-17",
+      "rate": 0
+   },
+   {
+      "de": "ordnen",
+      "en": "arrange",
+      "type": "verbs",
+      "date": "2024-07-17",
+      "rate": 0
+   },
+   {
+      "de": "rauchen",
+      "en": "smoke",
+      "type": "verbs",
+      "date": "2024-07-17",
+      "rate": 0
+   },
+   {
+      "de": "schlafen",
+      "en": "sleep",
+      "type": "verbs",
+      "date": "2024-07-17",
+      "rate": 0
+   },
+   {
+      "de": "schneiden",
+      "en": "cut",
+      "type": "verbs",
+      "date": "2024-07-17",
+      "rate": 0
+   },
+   {
+      "de": "schwimmen",
+      "en": "to swim",
+      "type": "verbs",
+      "date": "2024-07-17",
+      "rate": 0
+   },
+   {
+      "de": "sehen",
+      "en": "see",
+      "type": "verbs",
+      "date": "2024-07-17",
+      "rate": 0
+   },
+   {
+      "de": "spazieren gehen",
+      "en": "go for a stroll",
+      "type": "verbs",
+      "date": "2024-07-17",
+      "rate": 0
+   },
+   {
+      "de": "stattfinden",
+      "en": "take place",
+      "type": "verbs",
+      "date": "2024-07-17",
+      "rate": 0
+   },
+   {
+      "de": "storen",
+      "en": "disturb",
+      "type": "verbs",
+      "date": "2024-07-17",
+      "rate": 0
+   },
+   {
+      "de": "tanzen",
+      "en": "dance",
+      "type": "verbs",
+      "date": "2024-07-17",
+      "rate": 0
+   },
+   {
+      "de": "vergessen",
+      "en": "forget",
+      "type": "verbs",
+      "date": "2024-07-17",
+      "rate": 0
+   },
+   {
+      "de": "vergleichen",
+      "en": "compare",
+      "type": "verbs",
+      "date": "2024-07-17",
+      "rate": 0
+   },
+   {
+      "de": "vorbereiten",
+      "en": "prepare",
+      "type": "verbs",
+      "date": "2024-07-17",
+      "rate": 1
+   },
+   {
+      "de": "vorhaben",
+      "en": "plan",
+      "type": "verbs",
+      "date": "2024-07-17",
+      "rate": 0
+   },
+   {
+      "de": "zeichnen",
+      "en": "draw",
+      "type": "verbs",
+      "date": "2024-07-17",
+      "rate": 0
+   },
+   {
+      "de": "zuhoren",
+      "en": "listen",
+      "type": "verbs",
+      "date": "2024-07-17",
+      "rate": 1
+   },
+   {
+      "de": "der Abend",
+      "en": "the evening",
+      "type": "nouns",
+      "date": "2024-07-17",
+      "rate": 0
+   },
+   {
+      "de": "die Ansichtskarte",
+      "en": "the postcard",
+      "type": "nouns",
+      "date": "2024-07-17",
+      "rate": 0
+   },
+   {
+      "de": "die Arbeit",
+      "en": "the work",
+      "type": "nouns",
+      "date": "2024-07-17",
+      "rate": 0
+   },
+   {
+      "de": "der Ausflug",
+      "en": "the excursion",
+      "type": "nouns",
+      "date": "2024-07-17",
+      "rate": 0
+   },
+   {
+      "de": "der Backer",
+      "en": "the Baker",
+      "type": "nouns",
+      "date": "2024-07-17",
+      "rate": 0
+   },
+   {
+      "de": "die Bank",
+      "en": "the Bank",
+      "type": "nouns",
+      "date": "2024-07-17",
+      "rate": 1
+   },
+   {
+      "de": "die Bar",
+      "en": "the bar",
+      "type": "nouns",
+      "date": "2024-07-17",
+      "rate": 1
+   },
+   {
+      "de": "die Bibliothek",
+      "en": "the library",
+      "type": "nouns",
+      "date": "2024-07-17",
+      "rate": 1
+   },
+   {
+      "de": "das Buch",
+      "en": "the book",
+      "type": "nouns",
+      "date": "2024-07-17",
+      "rate": 0
+   },
+   {
+      "de": "das Cafe",
+      "en": "the cafe",
+      "type": "nouns",
+      "date": "2024-07-17",
+      "rate": 0
+   },
+   {
+      "de": "die Diskothek",
+      "en": "the disco",
+      "type": "nouns",
+      "date": "2024-07-17",
+      "rate": 0
+   },
+   {
+      "de": "der Donnerstag",
+      "en": "Thursday",
+      "type": "nouns",
+      "date": "2024-07-17",
+      "rate": 0
+   },
+   {
+      "de": "die Dusche",
+      "en": "the shower",
+      "type": "nouns",
+      "date": "2024-07-17",
+      "rate": 0
+   },
+   {
+      "de": "der Eintritt",
+      "en": "the entry",
+      "type": "nouns",
+      "date": "2024-07-17",
+      "rate": 0
+   },
+   {
+      "de": "das Esses",
+      "en": "the dining",
+      "type": "nouns",
+      "date": "2024-07-17",
+      "rate": 0
+   },
+   {
+      "de": "das Fernsehen",
+      "en": "the television",
+      "type": "nouns",
+      "date": "2024-07-17",
+      "rate": 0
+   },
+   {
+      "de": "das Fieber",
+      "en": "the fever",
+      "type": "nouns",
+      "date": "2024-07-17",
+      "rate": 0
+   },
+   {
+      "de": "der Film",
+      "en": "the film",
+      "type": "nouns",
+      "date": "2024-07-17",
+      "rate": 0
+   },
+   {
+      "de": "der Freizeit",
+      "en": "leisure",
+      "type": "nouns",
+      "date": "2024-07-17",
+      "rate": 0
+   },
+   {
+      "de": "die Friseurin",
+      "en": "the hairdresser",
+      "type": "nouns",
+      "date": "2024-07-17",
+      "rate": 0
+   },
+   {
+      "de": "der Gast",
+      "en": "the guest",
+      "type": "nouns",
+      "date": "2024-07-17",
+      "rate": 0
+   },
+   {
+      "de": "der Grus",
+      "en": "the Gruss",
+      "type": "nouns",
+      "date": "2024-07-17",
+      "rate": 0
+   },
+   {
+      "de": "der Juli",
+      "en": "July",
+      "type": "nouns",
+      "date": "2024-07-17",
+      "rate": 0
+   },
+   {
+      "de": "die Kellner",
+      "en": "the waiters",
+      "type": "nouns",
+      "date": "2024-07-17",
+      "rate": 0
+   },
+   {
+      "de": "das Kino",
+      "en": "the cinema",
+      "type": "nouns",
+      "date": "2024-07-17",
+      "rate": 0
+   },
+   {
+      "de": "das Kleid",
+      "en": "the dress",
+      "type": "nouns",
+      "date": "2024-07-17",
+      "rate": 0
+   },
+   {
+      "de": "das Krankenhaus",
+      "en": "the hospital",
+      "type": "nouns",
+      "date": "2024-07-17",
+      "rate": 0
+   },
+   {
+      "de": "die Krankenschwester",
+      "en": "the nurse",
+      "type": "nouns",
+      "date": "2024-07-17",
+      "rate": 0
+   },
+   {
+      "de": "die Lehrerin",
+      "en": "the teacher",
+      "type": "nouns",
+      "date": "2024-07-17",
+      "rate": 0
+   },
+   {
+      "de": "die Mannschaft",
+      "en": "the team",
+      "type": "nouns",
+      "date": "2024-07-17",
+      "rate": 0
+   },
+   {
+      "de": "die Maschine",
+      "en": "the machine",
+      "type": "nouns",
+      "date": "2024-07-17",
+      "rate": 1
+   },
+   {
+      "de": "das Meer",
+      "en": "the sea",
+      "type": "nouns",
+      "date": "2024-07-17",
+      "rate": 0
+   },
+   {
+      "de": "der Mensch",
+      "en": "the human being",
+      "type": "nouns",
+      "date": "2024-07-17",
+      "rate": 0
+   },
+   {
+      "de": "der Mittag",
+      "en": "the noon",
+      "type": "nouns",
+      "date": "2024-07-17",
+      "rate": 0
+   },
+   {
+      "de": "das Mittagessen",
+      "en": "lunch",
+      "type": "nouns",
+      "date": "2024-07-17",
+      "rate": 1
+   },
+   {
+      "de": "der Mittwoch",
+      "en": "Wednesday",
+      "type": "nouns",
+      "date": "2024-07-17",
+      "rate": 0
+   },
+   {
+      "de": "der Montag",
+      "en": "the Monday",
+      "type": "nouns",
+      "date": "2024-07-17",
+      "rate": 0
+   },
+   {
+      "de": "die Musik",
+      "en": "the music",
+      "type": "nouns",
+      "date": "2024-07-17",
+      "rate": 0
+   },
+   {
+      "de": "der Passagier",
+      "en": "the passenger",
+      "type": "nouns",
+      "date": "2024-07-17",
+      "rate": 0
+   },
+   {
+      "de": "die Pause",
+      "en": "the break",
+      "type": "nouns",
+      "date": "2024-07-17",
+      "rate": 1
+   },
+   {
+      "de": "das Restaurant",
+      "en": "the restaurant",
+      "type": "nouns",
+      "date": "2024-07-17",
+      "rate": 0
+   },
+   {
+      "de": "der Samstag",
+      "en": "the Saturday",
+      "type": "nouns",
+      "date": "2024-07-17",
+      "rate": 0
+   },
+   {
+      "de": "der Satz",
+      "en": "the sentence",
+      "type": "nouns",
+      "date": "2024-07-17",
+      "rate": 0
+   },
+   {
+      "de": "das Schild",
+      "en": "the shield",
+      "type": "nouns",
+      "date": "2024-07-17",
+      "rate": 0
+   },
+   {
+      "de": "das Schwimmbad",
+      "en": "the pool",
+      "type": "nouns",
+      "date": "2024-07-17",
+      "rate": 0
+   },
+   {
+      "de": "die Situation",
+      "en": "the situation",
+      "type": "nouns",
+      "date": "2024-07-17",
+      "rate": 1
+   },
+   {
+      "de": "der Sonnabend",
+      "en": "Saturday",
+      "type": "nouns",
+      "date": "2024-07-17",
+      "rate": 0
+   },
+   {
+      "de": "der Sonntag",
+      "en": "Sunday",
+      "type": "nouns",
+      "date": "2024-07-17",
+      "rate": 0
+   },
+   {
+      "de": "der Spaziergang",
+      "en": "the walk",
+      "type": "nouns",
+      "date": "2024-07-17",
+      "rate": 0
+   },
+   {
+      "de": "der Tanz",
+      "en": "the dance",
+      "type": "nouns",
+      "date": "2024-07-17",
+      "rate": 0
+   },
+   {
+      "de": "die Torte",
+      "en": "the pie",
+      "type": "nouns",
+      "date": "2024-07-17",
+      "rate": 0
+   },
+   {
+      "de": "die Uhrzeit",
+      "en": "the time",
+      "type": "nouns",
+      "date": "2024-07-17",
+      "rate": 0
+   },
+   {
+      "de": "der Verband",
+      "en": "the association",
+      "type": "nouns",
+      "date": "2024-07-17",
+      "rate": 0
+   },
+   {
+      "de": "das Viertel",
+      "en": "the quarter",
+      "type": "nouns",
+      "date": "2024-07-17",
+      "rate": 0
+   },
+   {
+      "de": "der Vortrag",
+      "en": "the presentation",
+      "type": "nouns",
+      "date": "2024-07-17",
+      "rate": 0
+   },
+   {
+      "de": "die Wohnung",
+      "en": "the apartment",
+      "type": "nouns",
+      "date": "2024-07-17",
+      "rate": 0
+   },
+   {
+      "de": "die Zeitung",
+      "en": "the newspaper",
+      "type": "nouns",
+      "date": "2024-07-17",
+      "rate": 1
+   },
+   {
+      "de": "die Zigarette",
+      "en": "the cigarette",
+      "type": "nouns",
+      "date": "2024-07-17",
+      "rate": 0
+   },
+   {
+      "de": "geoffnet",
+      "en": "open",
+      "type": "adjectives",
+      "date": "2024-07-17",
+      "rate": 1
+   },
+   {
+      "de": "geschlossen",
+      "en": "closed",
+      "type": "adjectives",
+      "date": "2024-07-17",
+      "rate": 0
+   },
+   {
+      "de": "herrlich",
+      "en": "splendid",
+      "type": "adjectives",
+      "date": "2024-07-17",
+      "rate": 0
+   },
+   {
+      "de": "leise",
+      "en": "quiet",
+      "type": "adjectives",
+      "date": "2024-07-17",
+      "rate": 0
+   },
+   {
+      "de": "nachst",
+      "en": "next",
+      "type": "adjectives",
+      "date": "2024-07-17",
+      "rate": 0
+   },
+   {
+      "de": "nett",
+      "en": "kind",
+      "type": "adjectives",
+      "date": "2024-07-17",
+      "rate": 1
+   },
+   {
+      "de": "obligatorisch",
+      "en": "mandatory",
+      "type": "adjectives",
+      "date": "2024-07-17",
+      "rate": 0
+   },
+   {
+      "de": "spat",
+      "en": "late",
+      "type": "adjectives",
+      "date": "2024-07-17",
+      "rate": 1
+   },
+   {
+      "de": "verboten",
+      "en": "forbidden",
+      "type": "adjectives",
+      "date": "2024-07-17",
+      "rate": 0
+   }
+]
