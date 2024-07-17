@@ -1,0 +1,380 @@
+{
+   "verben": [
+      [
+         "aufwachen",
+         "wake up"
+      ],
+      [
+         "bedeuten",
+         "mean"
+      ],
+      [
+         "besuchen",
+         "visit"
+      ],
+      [
+         "bleiben",
+         "remain"
+      ],
+      [
+         "dauern",
+         "last"
+      ],
+      [
+         "einpacken",
+         "wrap up"
+      ],
+      [
+         "einschlafen",
+         "fall asleep"
+      ],
+      [
+         "erkaltet sein",
+         "to have a cold"
+      ],
+      [
+         "gehen",
+         "go"
+      ],
+      [
+         "helfen",
+         "help"
+      ],
+      [
+         "hinfallen",
+         "falling down"
+      ],
+      [
+         "klingen",
+         "sound"
+      ],
+      [
+         "mitnehmen",
+         "take along"
+      ],
+      [
+         "packen",
+         "pack"
+      ],
+      [
+         "passieren",
+         "happen"
+      ],
+      [
+         "Recht haben",
+         "to be right"
+      ],
+      [
+         "stehen",
+         "stand"
+      ],
+      [
+         "sollen",
+         "should"
+      ],
+      [
+         "stehen",
+         "stand"
+      ],
+      [
+         "tun",
+         "do"
+      ],
+      [
+         "verstehen",
+         "understand"
+      ],
+      [
+         "wehtun",
+         "hurt"
+      ]
+   ],
+   "nomen": [
+      [
+         "die Angst",
+         "the fear"
+      ],
+      [
+         "die Apotheke",
+         "the pharmacy"
+      ],
+      [
+         "der Arzt",
+         "the doctor"
+      ],
+      [
+         "das Auge",
+         "the eye"
+      ],
+      [
+         "der Bahnhof",
+         "the station"
+      ],
+      [
+         "der Bauch",
+         "the belly"
+      ],
+      [
+         "das Bein",
+         "the leg"
+      ],
+      [
+         "das Bespiel",
+         "the example"
+      ],
+      [
+         "die Brust",
+         "the breast"
+      ],
+      [
+         "der Chef",
+         "the boss"
+      ],
+      [
+         "der Doktor",
+         "the doctor"
+      ],
+      [
+         "das Drittel",
+         "a third"
+      ],
+      [
+         "die Drogerie",
+         "the drugstore"
+      ],
+      [
+         "die Erkaltung",
+         "the common cold"
+      ],
+      [
+         "die Frage",
+         "the question"
+      ],
+      [
+         "der Fus",
+         "the foot"
+      ],
+      [
+         "der Fusball",
+         "the football"
+      ],
+      [
+         "die Geschichte",
+         "the history"
+      ],
+      [
+         "die Gesundheit",
+         "the health"
+      ],
+      [
+         "das Grad",
+         "the degree"
+      ],
+      [
+         "die Grippe",
+         "the flu"
+      ],
+      [
+         "der Hals",
+         "the neck"
+      ],
+      [
+         "der Hand",
+         "the hand"
+      ],
+      [
+         "der Handschuh",
+         "the glove"
+      ],
+      [
+         "der Husten",
+         "the cough"
+      ],
+      [
+         "das Knie",
+         "the knee"
+      ],
+      [
+         "der Kollege",
+         "The colleague"
+      ],
+      [
+         "der Koffer",
+         "the suitcase"
+      ],
+      [
+         "der Konflikt",
+         "the conflict"
+      ],
+      [
+         "der Kopf",
+         "the head"
+      ],
+      [
+         "die Krankenver",
+         "the health insurance"
+      ],
+      [
+         "die Krankheit",
+         "the disease"
+      ],
+      [
+         "das Licht",
+         "the light"
+      ],
+      [
+         "die Luft",
+         "the air"
+      ],
+      [
+         "der Magen",
+         "the stomach"
+      ],
+      [
+         "das Medikamenten",
+         "the medication"
+      ],
+      [
+         "der Mund",
+         "the mouth"
+      ],
+      [
+         "die Mutze",
+         "the cap"
+      ],
+      [
+         "die Nacht",
+         "the night"
+      ],
+      [
+         "die Nase",
+         "the nose"
+      ],
+      [
+         "das Obst",
+         "the fruit"
+      ],
+      [
+         "das Papier",
+         "the paper"
+      ],
+      [
+         "der Pullover",
+         "the sweater"
+      ],
+      [
+         "das Pflaster",
+         "the patch"
+      ],
+      [
+         "der Rat",
+         "the Council"
+      ],
+      [
+         "der Rucken",
+         "the back"
+      ],
+      [
+         "der Schmerz",
+         "the pain"
+      ],
+      [
+         "der Schnupfen",
+         "the cold"
+      ],
+      [
+         "das Spiel",
+         "the game"
+      ],
+      [
+         "der Sport",
+         "the sport"
+      ],
+      [
+         "die Sprechstunde",
+         "the consultation"
+      ],
+      [
+         "die Tablette",
+         "the pill"
+      ],
+      [
+         "das Thema",
+         "the topic"
+      ],
+      [
+         "der Tip",
+         "the tip"
+      ],
+      [
+         "der Tropfen",
+         "the drop"
+      ],
+      [
+         "das Verbandszeug",
+         "the first aid kid"
+      ],
+      [
+         "die Versopfung",
+         "the constipation"
+      ],
+      [
+         "der Wecker",
+         "the alarm clock"
+      ],
+      [
+         "das Wochenende",
+         "the weekend"
+      ],
+      [
+         "der Zahn",
+         "the tooth"
+      ]
+   ],
+   "adjektive": [
+      [
+         "bestimmt",
+         "certainly"
+      ],
+      [
+         "blos",
+         "just"
+      ],
+      [
+         "einmal",
+         "once"
+      ],
+      [
+         "genau",
+         "Exactly"
+      ],
+      [
+         "haufig",
+         "frequently"
+      ],
+      [
+         "hochstens",
+         "at most"
+      ],
+      [
+         "lange",
+         "long"
+      ],
+      [
+         "plotzlich",
+         "suddenly"
+      ],
+      [
+         "taglich",
+         "daily"
+      ],
+      [
+         "unbedingt",
+         "absolutely"
+      ],
+      [
+         "wirklich",
+         "really"
+      ]
+   ]
+}

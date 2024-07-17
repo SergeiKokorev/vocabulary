@@ -1,0 +1,436 @@
+{
+   "verbs": [
+      [
+         "anfangen",
+         "begin"
+      ],
+      [
+         "anziehen",
+         "put on"
+      ],
+      [
+         "aufhoren",
+         "stop"
+      ],
+      [
+         "aufmachen",
+         "open up"
+      ],
+      [
+         "aufraumen",
+         "clean up"
+      ],
+      [
+         "aufstehen",
+         "stand up"
+      ],
+      [
+         "bedienen",
+         "serve"
+      ],
+      [
+         "bescreiben",
+         "describe"
+      ],
+      [
+         "bringen",
+         "bring"
+      ],
+      [
+         "durfen",
+         "may"
+      ],
+      [
+         "duschen",
+         "have a shower"
+      ],
+      [
+         "einkaufen",
+         "shopping"
+      ],
+      [
+         "einladen",
+         "invite"
+      ],
+      [
+         "feiern",
+         "celebrate"
+      ],
+      [
+         "fernsehen",
+         "TV"
+      ],
+      [
+         "fotografieren",
+         "taking photos"
+      ],
+      [
+         "fruhstucken",
+         "have breakfast"
+      ],
+      [
+         "holen",
+         "fetch"
+      ],
+      [
+         "kontrollieren",
+         "check"
+      ],
+      [
+         "konnen",
+         "can"
+      ],
+      [
+         "messen",
+         "measure"
+      ],
+      [
+         "mitbringen",
+         "bring along"
+      ],
+      [
+         "mitkommen",
+         "come along"
+      ],
+      [
+         "mussen",
+         "must"
+      ],
+      [
+         "ordnen",
+         "arrange"
+      ],
+      [
+         "rauchen",
+         "smoke"
+      ],
+      [
+         "schlafen",
+         "sleep"
+      ],
+      [
+         "schneiden",
+         "cut"
+      ],
+      [
+         "schwimmen",
+         "to swim"
+      ],
+      [
+         "sehen",
+         "see"
+      ],
+      [
+         "spazieren gehen",
+         "go for a stroll"
+      ],
+      [
+         "stattfinden",
+         "take place"
+      ],
+      [
+         "storen",
+         "disturb"
+      ],
+      [
+         "tanzen",
+         "dance"
+      ],
+      [
+         "vergessen",
+         "forget"
+      ],
+      [
+         "vergleichen",
+         "compare"
+      ],
+      [
+         "vorbereiten",
+         "prepare"
+      ],
+      [
+         "vorhaben",
+         "plan"
+      ],
+      [
+         "zeichnen",
+         "draw"
+      ],
+      [
+         "zuhoren",
+         "listen"
+      ]
+   ],
+   "nouns": [
+      [
+         "der Abend",
+         "the evening"
+      ],
+      [
+         "die Ansichtskarte",
+         "the postcard"
+      ],
+      [
+         "die Arbeit",
+         "the work"
+      ],
+      [
+         "der Ausflug",
+         "the excursion"
+      ],
+      [
+         "der Backer",
+         "the Baker"
+      ],
+      [
+         "die Bank",
+         "the Bank"
+      ],
+      [
+         "die Bar",
+         "the bar"
+      ],
+      [
+         "die Bibliothek",
+         "the library"
+      ],
+      [
+         "das Buch",
+         "the book"
+      ],
+      [
+         "das Cafe",
+         "the cafe"
+      ],
+      [
+         "die Diskothek",
+         "the disco"
+      ],
+      [
+         "der Donnerstag",
+         "Thursday"
+      ],
+      [
+         "die Dusche",
+         "the shower"
+      ],
+      [
+         "der Eintritt",
+         "the entry"
+      ],
+      [
+         "das Esses",
+         "the dining"
+      ],
+      [
+         "das Fernsehen",
+         "the television"
+      ],
+      [
+         "das Fieber",
+         "the fever"
+      ],
+      [
+         "der Film",
+         "the film"
+      ],
+      [
+         "der Freizeit",
+         "leisure"
+      ],
+      [
+         "die Friseurin",
+         "the hairdresser"
+      ],
+      [
+         "der Gast",
+         "the guest"
+      ],
+      [
+         "der Grus",
+         "the Gruss"
+      ],
+      [
+         "der Juli",
+         "July"
+      ],
+      [
+         "die Kellner",
+         "the waiters"
+      ],
+      [
+         "das Kino",
+         "the cinema"
+      ],
+      [
+         "das Kleid",
+         "the dress"
+      ],
+      [
+         "das Krankenhaus",
+         "the hospital"
+      ],
+      [
+         "die Krankenschwester",
+         "the nurse"
+      ],
+      [
+         "die Lehrerin",
+         "the teacher"
+      ],
+      [
+         "die Mannschaft",
+         "the team"
+      ],
+      [
+         "die Maschine",
+         "the machine"
+      ],
+      [
+         "das Meer",
+         "the sea"
+      ],
+      [
+         "der Mensch",
+         "the human being"
+      ],
+      [
+         "der Mittag",
+         "the noon"
+      ],
+      [
+         "das Mittagessen",
+         "lunch"
+      ],
+      [
+         "der Mittwoch",
+         "Wednesday"
+      ],
+      [
+         "der Montag",
+         "the Monday"
+      ],
+      [
+         "die Musik",
+         "the music"
+      ],
+      [
+         "der Passagier",
+         "the passenger"
+      ],
+      [
+         "die Pause",
+         "the break"
+      ],
+      [
+         "das Restaurant",
+         "the restaurant"
+      ],
+      [
+         "der Samstag",
+         "the Saturday"
+      ],
+      [
+         "der Satz",
+         "the sentence"
+      ],
+      [
+         "das Schild",
+         "the shield"
+      ],
+      [
+         "das Schwimmbad",
+         "the pool"
+      ],
+      [
+         "die Situation",
+         "the situation"
+      ],
+      [
+         "der Sonnabend",
+         "Saturday"
+      ],
+      [
+         "der Sonntag",
+         "Sunday"
+      ],
+      [
+         "der Spaziergang",
+         "the walk"
+      ],
+      [
+         "der Tanz",
+         "the dance"
+      ],
+      [
+         "die Torte",
+         "the pie"
+      ],
+      [
+         "die Uhrzeit",
+         "the time"
+      ],
+      [
+         "der Verband",
+         "the association"
+      ],
+      [
+         "das Viertel",
+         "the quarter"
+      ],
+      [
+         "der Vortrag",
+         "the presentation"
+      ],
+      [
+         "die Wohnung",
+         "the apartment"
+      ],
+      [
+         "die Zeitung",
+         "the newspaper"
+      ],
+      [
+         "die Zigarette",
+         "the cigarette"
+      ]
+   ],
+   "adjectives": [
+      [
+         "geoffnet",
+         "open"
+      ],
+      [
+         "geschlossen",
+         "closed"
+      ],
+      [
+         "herrlich",
+         "splendid"
+      ],
+      [
+         "leise",
+         "quiet"
+      ],
+      [
+         "nachst",
+         "next"
+      ],
+      [
+         "nett",
+         "kind"
+      ],
+      [
+         "obligatorisch",
+         "mandatory"
+      ],
+      [
+         "spat",
+         "late"
+      ],
+      [
+         "verboten",
+         "forbidden"
+      ]
+   ]
+}

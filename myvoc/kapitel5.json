@@ -1,0 +1,364 @@
+{
+   "verbs": [
+      [
+         "anrufen",
+         "call"
+      ],
+      [
+         "aussehen",
+         "look"
+      ],
+      [
+         "baden",
+         "bathe"
+      ],
+      [
+         "bauen",
+         "build"
+      ],
+      [
+         "buchen",
+         "book"
+      ],
+      [
+         "diskutieren",
+         "discuss"
+      ],
+      [
+         "einziehen",
+         "move in"
+      ],
+      [
+         "finden",
+         "find"
+      ],
+      [
+         "herstellen",
+         "produce"
+      ],
+      [
+         "informieren",
+         "inform"
+      ],
+      [
+         "leihen",
+         "lend"
+      ],
+      [
+         "liegen",
+         "lay"
+      ],
+      [
+         "suchen",
+         "seek"
+      ],
+      [
+         "tun",
+         "do"
+      ],
+      [
+         "umziehen",
+         "move"
+      ],
+      [
+         "verbieden",
+         "prohibit"
+      ],
+      [
+         "verdienen",
+         "earn"
+      ],
+      [
+         "wollen",
+         "want"
+      ]
+   ],
+   "nouns": [
+      [
+         "der Appartement",
+         "the apartment"
+      ],
+      [
+         "der Aufzug",
+         "the elevator"
+      ],
+      [
+         "das Bad",
+         "the bathroom"
+      ],
+      [
+         "der Balkon",
+         "the balcony"
+      ],
+      [
+         "das Dach",
+         "the roof"
+      ],
+      [
+         "das Ehepaar",
+         "the couple"
+      ],
+      [
+         "das Einkommen",
+         "income"
+      ],
+      [
+         "das Ende",
+         "the end"
+      ],
+      [
+         "das Erdgeschoss",
+         "the ground floor"
+      ],
+      [
+         "die Erlaubnis",
+         "the permission"
+      ],
+      [
+         "die Familie",
+         "the family"
+      ],
+      [
+         "das Fenster",
+         "the window"
+      ],
+      [
+         "der Flur",
+         "the corridor"
+      ],
+      [
+         "der Fusboden",
+         "the floor"
+      ],
+      [
+         "die Garage",
+         "the garage"
+      ],
+      [
+         "die Garderobe",
+         "the wardrobe"
+      ],
+      [
+         "der Garten",
+         "the garden"
+      ],
+      [
+         "das Hochhaus",
+         "the skyscraper"
+      ],
+      [
+         "der Hof",
+         "the yard"
+      ],
+      [
+         "das Hotel",
+         "the hotel"
+      ],
+      [
+         "die Industrie",
+         "the industry"
+      ],
+      [
+         "die Insel",
+         "the island"
+      ],
+      [
+         "der Keller",
+         "the cellar"
+      ],
+      [
+         "der Kiosk",
+         "the kiosk"
+      ],
+      [
+         "der Komfort",
+         "the comfort"
+      ],
+      [
+         "der Krach",
+         "The noise"
+      ],
+      [
+         "der Larm",
+         "the noise"
+      ],
+      [
+         "das Leben",
+         "the life"
+      ],
+      [
+         "die Miete",
+         "the rent"
+      ],
+      [
+         "der Mietvertrag",
+         "the lease agreement"
+      ],
+      [
+         "die Mutter",
+         "the mother"
+      ],
+      [
+         "der Nachbar",
+         "the neighbor"
+      ],
+      [
+         "die Natur",
+         "the nature"
+      ],
+      [
+         "der Quadratmeter",
+         "the square meter"
+      ],
+      [
+         "der Raum",
+         "the space"
+      ],
+      [
+         "das Reiseburo",
+         "the travel agency"
+      ],
+      [
+         "die Rezeption",
+         "the reception"
+      ],
+      [
+         "die Ruhe",
+         "the calm"
+      ],
+      [
+         "das Schlafzimmer",
+         "the bedroom"
+      ],
+      [
+         "der Schribtisch",
+         "the desk"
+      ],
+      [
+         "der Sessel",
+         "the armchair"
+      ],
+      [
+         "die Sonne",
+         "the sun"
+      ],
+      [
+         "der Spiegel",
+         "the mirror"
+      ],
+      [
+         "der Stock",
+         "the stick"
+      ],
+      [
+         "der Strandt",
+         "the beach"
+      ],
+      [
+         "der Streit",
+         "the dispute"
+      ],
+      [
+         "die Stunde",
+         "the hour"
+      ],
+      [
+         "die Telefonzelle",
+         "the phone booth"
+      ],
+      [
+         "der Teppich",
+         "the carpet"
+      ],
+      [
+         "die Terrasse",
+         "the terrace"
+      ],
+      [
+         "die Toilette",
+         "the toilet"
+      ],
+      [
+         "der Urlaub",
+         "the holidays"
+      ],
+      [
+         "das Urteil",
+         "the judgment"
+      ],
+      [
+         "der Vermieter",
+         "the landlord"
+      ],
+      [
+         "der Vogel",
+         "the bird"
+      ],
+      [
+         "der Vorhang",
+         "the curtain"
+      ],
+      [
+         "der Waggen",
+         "the wagon"
+      ],
+      [
+         "der Wald",
+         "the forest"
+      ],
+      [
+         "die Ware",
+         "the goods"
+      ],
+      [
+         "die Wiese",
+         "the meadow"
+      ],
+      [
+         "die Woche",
+         "the week"
+      ],
+      [
+         "das Wohnzimmer",
+         "the living room"
+      ],
+      [
+         "das Zimmer",
+         "the room"
+      ]
+   ],
+   "adjectives": [
+      [
+         "auserhalb",
+         "outside"
+      ],
+      [
+         "bald",
+         "soon"
+      ],
+      [
+         "drausen",
+         "outside"
+      ],
+      [
+         "endlich",
+         "finally"
+      ],
+      [
+         "nachts",
+         "at night"
+      ],
+      [
+         "sogar",
+         "even"
+      ],
+      [
+         "voher",
+         "before"
+      ],
+      [
+         "ziemlich",
+         "quite"
+      ]
+   ]
+}
