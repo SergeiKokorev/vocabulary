@@ -26,25 +26,30 @@ def main(src, dest, exercise, num_words):
         
         vocab = json.load(fp)
         print('Enter you translation for word:')
+        wrong, right = 0, 0
 
-        for i in range(num_words):
-            w = random.randint(0, len(vocab))
+        for i in range(1, num_words+1):
+            w = random.randint(0, len(vocab) - 1)
             word = vocab[w][src]
             trans = vocab[w][dest]
             type = vocab[w]['type']
             dt = vocab[w]['date']
             rate = vocab[w]['rate']
 
-            user_trans = input(f'\t{word} ({type}), last time {dt}, rate: {rate}: ')
+            translation = input(f'\t{i}) {word} ({type}), last time {dt}, rate: {rate}: ')
 
-            if user_trans.lower() == trans.lower():
+            if translation.lower() == trans.lower():
                 print('\t\tRight')
                 vocab[w]['date'] = date.today().isoformat()
+                right += 1
                 if rate < 10: vocab[w]['rate'] = rate + 1
             else:
                 print(f'\t\tWrong, right translation is {trans}')
                 if rate: vocab[w]['rate'] -= 1
-    
+                wrong += 1
+
+    print(f'Right answers {right}. Wrong answers {wrong}. {right* 100 / num_words} % of right answers.')
+
     with open(exercise, 'w', newline='') as fp:
         json.dump(vocab, fp, indent=3)
 

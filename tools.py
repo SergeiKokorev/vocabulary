@@ -1,9 +1,9 @@
 import os
-import json
 
+
+from typing import Sequence
 from datetime import date
-
-
+from json import dump, load
 from translator import translate
 
 
@@ -12,103 +12,48 @@ def touch(path):
         os.utime(path, None)
 
 
-def add_word(word, translation, type, file):
+def get_json_dump(words: Sequence[tuple]) -> Sequence[dict]:
 
-    aw = 'r+' if os.path.exists(file) else 'w'
+    now = date.today().isoformat()
+    json_dump = []
+    keys = ('de', 'en', 'type', 'date', 'rate')
 
-    with open(file, aw, newline='') as f:
+    for word in words:
+        values = (word[0], translate(word[0], src='de', dest='en'), word[1], now, 0)
+        json_dump.append(dict([(k, v) for k, v in zip(keys, values)]))
 
-        if os.path.getsize(file) > 0:
-            f.seek(0)
-            data = json.load(f)
-        else:
-            data = {}
-            data[type] = []
-
-        data[type].append((word, translation))
-        json.dump(data, f, indent=2)
+    return json_dump
 
 
-def add_words(words, translations, type, file):
+def write_json(file_name: str, words: Sequence[tuple]) -> None:
 
-    res = dict([(type, [])])
+    json_dump = get_json_dump(words)
 
-    if not os.path.exists(file): 
-        touch(file)
-
-    if not os.path.getsize(file) > 0:
-        data = {}
-    else:
-        with open(file, 'r') as f:
-            data = json.load(f)
-
-    with open(file, 'w', newline='') as f:
-
-        for word, tr in zip(words, translations):
-            res[type].append((word, tr))
-
-        data.update(res)
-        json.dump(data, f, indent=3)
+    try:
+        with open(file_name, 'w', newline='') as fp:
+            dump(json_dump, fp, indent=2)
+    except PermissionError:
+        raise PermissionError(f'You do not have permission to write file {file_name}')
 
 
-def write():
+def update_json(file_name: str, words: Sequence[tuple]):
 
-    file = os.path.join('myvoc', 'kapitel7.json')
-    translations = []
+    words_dict = None
 
-    # Fill lists below to translate german words to english and write them to the file
-    verben = []
-    nomen = []
-    adjektive = []
-    adverben = []
+    try:
+        with open(file_name, 'r') as fp:
+            words_dict = load(fp)
+    except FileExistsError:
+        raise FileExistsError(f'file {file_name} does not exist')
 
-    for word in verben:
-        translations.append(translate(word, src='de', dest='en'))
-    add_words(verben, translations, 'verben', file)
-
-    translations = []
-    for word in nomen:
-        translations.append(translate(word, src='de', dest='en'))
-    add_words(nomen, translations, 'nomen', file)
-
-    translations = []
-    for word in adjektive:
-        translations.append(translate(word, src='de', dest='en'))
-
-    add_words(adjektive, translations, 'adjektive', file)
-
-    translations = []
-    for word in adverben:
-        translations.append(translate(word, src='de', dest='en'))
-
-    add_words(adverben, translations, 'adjektive', file)
-
-
-def read():
-
-    file = os.path.join('myvoc', 'kapitel6.json')
-    out = os.path.join('myvoc', 'kapitel6_01.json')
-    res = []
-
-    with open(file, 'r') as fp:
-        voc = json.load(fp)
-        today = date.today()
-
-        for t, words in voc.items():
-            for word in words:
-                res.append({
-                    'de': word[0], 
-                    'en': word[1], 
-                    'type': t, 
-                    'date': today.isoformat(),
-                    'rate': 0
-                    })
+    if not words_dict:
+        return None
     
-    with open(out, 'w', newline='') as fp:
+    new_words = get_json_dump(words)
+    words_dict.append(new_words)
 
-        json.dump(res, fp, indent=3)
-
-
-if __name__ == "__main__":
-
-    read()
+    try:
+        with open(file_name, 'w', newline='') as fp:
+            dump(words_dict, fp, indent=2)
+    except PermissionError:
+        raise PermissionError(f'You do not have access to file {file_name}')

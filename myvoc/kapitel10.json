@@ -1,0 +1,303 @@
+[
+   {
+      "de": "berichten",
+      "en": "report",
+      "type": "verbenen",
+      "date": "2024-09-06",
+      "rate": 5
+   },
+   {
+      "de": "besichtigen",
+      "en": "visit",
+      "type": "verben",
+      "date": "2024-09-06",
+      "rate": 4
+   },
+   {
+      "de": "bestehen",
+      "en": "consist",
+      "type": "verben",
+      "date": "2024-09-06",
+      "rate": 3
+   },
+   {
+      "de": "erfinden",
+      "en": "invent",
+      "type": "verben",
+      "date": "2024-09-06",
+      "rate": 0
+   },
+   {
+      "de": "fliesen",
+      "en": "flow",
+      "type": "verben",
+      "date": "2024-09-06",
+      "rate": 1
+   },
+   {
+      "de": "gehoren",
+      "en": "belong",
+      "type": "verben",
+      "date": "2024-09-06",
+      "rate": 4
+   },
+   {
+      "de": "wachsen",
+      "en": "grow",
+      "type": "verben",
+      "date": "2024-09-06",
+      "rate": 4
+   },
+   {
+      "de": "wahlen",
+      "en": "choose",
+      "type": "verben",
+      "date": "2024-09-06",
+      "rate": 0
+   },
+   {
+      "de": "wandern",
+      "en": "hike",
+      "type": "verben",
+      "date": "2024-09-06",
+      "rate": 3
+   },
+   {
+      "de": "der Bach",
+      "en": "the stream",
+      "type": "nomen",
+      "date": "2024-09-06",
+      "rate": 1
+   },
+   {
+      "de": "der Bau",
+      "en": "the construction",
+      "type": "nomen",
+      "date": "2024-09-06",
+      "rate": 4
+   },
+   {
+      "de": "der Berg",
+      "en": "the mountain",
+      "type": "nomen",
+      "date": "2024-09-06",
+      "rate": 1
+   },
+   {
+      "de": "die Brucke",
+      "en": "the bridge",
+      "type": "nomen",
+      "date": "2024-09-06",
+      "rate": 2
+   },
+   {
+      "de": "das Datum",
+      "en": "the date",
+      "type": "nomen",
+      "date": "2024-09-06",
+      "rate": 2
+   },
+   {
+      "de": "das Denkmal",
+      "en": "the monument",
+      "type": "nomen",
+      "date": "2024-09-06",
+      "rate": 3
+   },
+   {
+      "de": "das Elektrogerat",
+      "en": "the electrical appliance",
+      "type": "nomen",
+      "date": "2024-09-06",
+      "rate": 3
+   },
+   {
+      "de": "das Ende",
+      "en": "the end",
+      "type": "nomen",
+      "date": "2024-09-06",
+      "rate": 3
+   },
+   {
+      "de": "der Fluss",
+      "en": "the river",
+      "type": "nomen",
+      "date": "2024-09-06",
+      "rate": 3
+   },
+   {
+      "de": "das Gasthaus",
+      "en": "the inn",
+      "type": "nomen",
+      "date": "2024-09-06",
+      "rate": 2
+   },
+   {
+      "de": "das Gebiet",
+      "en": "the area",
+      "type": "nomen",
+      "date": "2024-09-06",
+      "rate": 0
+   },
+   {
+      "de": "die Grenze",
+      "en": "the border",
+      "type": "nomen",
+      "date": "2024-09-06",
+      "rate": 6
+   },
+   {
+      "de": "der Hafen",
+      "en": "the port",
+      "type": "nomen",
+      "date": "2024-09-06",
+      "rate": 0
+   },
+   {
+      "de": "die Kneipe",
+      "en": "the pub",
+      "type": "nomen",
+      "date": "2024-09-06",
+      "rate": 4
+   },
+   {
+      "de": "die Kuste",
+      "en": "the coast",
+      "type": "nomen",
+      "date": "2024-09-06",
+      "rate": 2
+   },
+   {
+      "de": "Lebensmittel",
+      "en": "Groceries",
+      "type": "nomen",
+      "date": "2024-09-06",
+      "rate": 7
+   },
+   {
+      "de": "die Nation",
+      "en": "the nation",
+      "type": "nomen",
+      "date": "2024-09-06",
+      "rate": 2
+   },
+   {
+      "de": "die Pension",
+      "en": "the pension",
+      "type": "nomen",
+      "date": "2024-09-06",
+      "rate": 0
+   },
+   {
+      "de": "die Ruine",
+      "en": "the ruin",
+      "type": "nomen",
+      "date": "2024-09-06",
+      "rate": 3
+   },
+   {
+      "de": "die Schriftstellerin",
+      "en": "the writer",
+      "type": "nomen",
+      "date": "2024-09-06",
+      "rate": 2
+   },
+   {
+      "de": "die Sehenswurdigkeit",
+      "en": "the sight",
+      "type": "nomen",
+      "date": "2024-09-06",
+      "rate": 3
+   },
+   {
+      "de": "der Sitz",
+      "en": "the seat",
+      "type": "nomen",
+      "date": "2024-09-06",
+      "rate": 1
+   },
+   {
+      "de": "die Sprache",
+      "en": "the language",
+      "type": "nomen",
+      "date": "2024-09-06",
+      "rate": 1
+   },
+   {
+      "de": "der Staat",
+      "en": "the State",
+      "type": "nomen",
+      "date": "2024-09-06",
+      "rate": 2
+   },
+   {
+      "de": "der Tod",
+      "en": "the death",
+      "type": "nomen",
+      "date": "2024-09-06",
+      "rate": 4
+   },
+   {
+      "de": "das Werk",
+      "en": "the factory",
+      "type": "nomen",
+      "date": "2024-09-06",
+      "rate": 1
+   },
+   {
+      "de": "das Zentrum",
+      "en": "the center",
+      "type": "nomen",
+      "date": "2024-09-06",
+      "rate": 4
+   },
+   {
+      "de": "endgultig",
+      "en": "finally",
+      "type": "adjektive",
+      "date": "2024-09-06",
+      "rate": 0
+   },
+   {
+      "de": "fertig",
+      "en": "complete",
+      "type": "adjektive",
+      "date": "2024-09-06",
+      "rate": 4
+   },
+   {
+      "de": "offiziell",
+      "en": "officially",
+      "type": "adjektive",
+      "date": "2024-09-06",
+      "rate": 4
+   },
+   {
+      "de": "tief",
+      "en": "deep",
+      "type": "adjektive",
+      "date": "2024-09-06",
+      "rate": 5
+   },
+   {
+      "de": "damals",
+      "en": "at that time",
+      "type": "adverbien",
+      "date": "2024-09-06",
+      "rate": 2
+   },
+   {
+      "de": "daher",
+      "en": "therefore",
+      "type": "adverbien",
+      "date": "2024-09-06",
+      "rate": 7
+   },
+   {
+      "de": "Passen Sie auf",
+      "en": "Be careful",
+      "type": "ausdrucke",
+      "date": "2024-09-06",
+      "rate": 2
+   }
+]
