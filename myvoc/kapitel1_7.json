@@ -3,645 +3,645 @@
       "de": "abfahren",
       "en": "depart",
       "type": "verben",
-      "date": "2024-09-06",
-      "rate": 1
+      "date": "2024-09-11",
+      "rate": 6
    },
    {
       "de": "abholen",
       "en": "pick up",
       "type": "verben",
-      "date": "2024-08-23",
-      "rate": 1
+      "date": "2024-10-03",
+      "rate": 7
    },
    {
       "de": "abstellen",
       "en": "turn off",
       "type": "verben",
-      "date": "2024-08-23",
-      "rate": 0
+      "date": "2024-10-01",
+      "rate": 2
    },
    {
       "de": "ansehen",
       "en": "view",
       "type": "verben",
-      "date": "2024-08-23",
+      "date": "2024-09-11",
       "rate": 0
    },
    {
       "de": "anstellen",
       "en": "hire",
       "type": "verben",
-      "date": "2024-07-24",
-      "rate": 1
+      "date": "2024-09-11",
+      "rate": 5
    },
    {
       "de": "ausmachen",
       "en": "turn off",
       "type": "verben",
-      "date": "2024-08-23",
-      "rate": 3
+      "date": "2024-09-10",
+      "rate": 4
    },
    {
       "de": "aussteigen",
       "en": "exit",
       "type": "verben",
-      "date": "2024-07-18",
-      "rate": 0
+      "date": "2024-10-03",
+      "rate": 1
    },
    {
       "de": "ausziehen",
       "en": "get undressed",
       "type": "verben",
-      "date": "2024-09-06",
+      "date": "2024-10-03",
       "rate": 2
    },
    {
       "de": "einsteigen",
       "en": "get in",
       "type": "verben",
-      "date": "2024-09-06",
-      "rate": 3
+      "date": "2024-10-01",
+      "rate": 10
    },
    {
       "de": "fallen",
       "en": "fall",
       "type": "verben",
-      "date": "2024-09-06",
-      "rate": 9
+      "date": "2024-10-03",
+      "rate": 10
    },
    {
       "de": "geben",
       "en": "give",
       "type": "verben",
-      "date": "2024-09-06",
-      "rate": 4
+      "date": "2024-10-03",
+      "rate": 6
    },
    {
       "de": "gewinnen",
       "en": "win",
       "type": "verben",
-      "date": "2024-09-06",
-      "rate": 6
+      "date": "2024-10-03",
+      "rate": 8
    },
    {
       "de": "giesen",
       "en": "pour",
       "type": "verben",
-      "date": "2024-09-06",
-      "rate": 3
+      "date": "2024-10-01",
+      "rate": 4
    },
    {
       "de": "heiraten",
       "en": "marry",
       "type": "verben",
-      "date": "2024-09-06",
-      "rate": 3
+      "date": "2024-10-03",
+      "rate": 9
    },
    {
       "de": "kennen lernen",
       "en": "get to know",
       "type": "verben",
-      "date": "2024-07-29",
-      "rate": 0
+      "date": "2024-10-03",
+      "rate": 5
    },
    {
       "de": "kundigen",
       "en": "quit",
       "type": "verben",
-      "date": "2024-08-14",
-      "rate": 0
+      "date": "2024-09-11",
+      "rate": 1
    },
    {
       "de": "lassen",
       "en": "let",
       "type": "verben",
-      "date": "2024-09-06",
+      "date": "2024-10-03",
       "rate": 10
    },
    {
       "de": "malen",
       "en": "to paint",
       "type": "verben",
-      "date": "2024-08-23",
-      "rate": 1
+      "date": "2024-10-03",
+      "rate": 6
    },
    {
       "de": "merken",
       "en": "notice",
       "type": "verben",
-      "date": "2024-07-18",
-      "rate": 0
+      "date": "2024-10-03",
+      "rate": 6
    },
    {
       "de": "operieren",
       "en": "operate",
       "type": "verben",
-      "date": "2024-09-06",
-      "rate": 4
+      "date": "2024-10-03",
+      "rate": 8
    },
    {
       "de": "parken",
       "en": "park",
       "type": "verben",
-      "date": "2024-09-06",
-      "rate": 7
+      "date": "2024-10-03",
+      "rate": 10
    },
    {
       "de": "putzen",
       "en": "cleaning",
       "type": "verben",
-      "date": "2024-09-06",
-      "rate": 1
+      "date": "2024-09-09",
+      "rate": 0
    },
    {
       "de": "rufen",
       "en": "call",
       "type": "verben",
       "date": "2024-09-06",
-      "rate": 3
+      "rate": 0
    },
    {
       "de": "sitzen",
       "en": "sit",
       "type": "verben",
-      "date": "2024-09-06",
-      "rate": 7
+      "date": "2024-09-11",
+      "rate": 10
    },
    {
       "de": "telefonieren",
       "en": "make a phone call",
       "type": "verben",
-      "date": "2024-09-06",
-      "rate": 0
+      "date": "2024-10-03",
+      "rate": 10
    },
    {
       "de": "tragen",
       "en": "carry",
       "type": "verben",
-      "date": "2024-09-06",
-      "rate": 5
+      "date": "2024-10-03",
+      "rate": 10
    },
    {
       "de": "uberlegen",
       "en": "think over",
       "type": "verben",
-      "date": "2024-08-14",
+      "date": "2024-09-30",
       "rate": 0
    },
    {
       "de": "umziehen",
       "en": "move",
       "type": "verben",
-      "date": "2024-09-06",
+      "date": "2024-09-11",
       "rate": 9
    },
    {
       "de": "vorbeikommen",
       "en": "come round",
       "type": "verben",
-      "date": "2024-07-18",
-      "rate": 0
+      "date": "2024-10-03",
+      "rate": 4
    },
    {
       "de": "wecken",
       "en": "wake up",
       "type": "verben",
-      "date": "2024-09-06",
-      "rate": 2
+      "date": "2024-09-10",
+      "rate": 3
    },
    {
       "de": "wegfahren",
       "en": "drive away",
       "type": "verben",
-      "date": "2024-09-06",
-      "rate": 8
+      "date": "2024-10-03",
+      "rate": 10
    },
    {
       "de": "die Addresse",
       "en": "the address",
       "type": "nomen",
-      "date": "2024-09-06",
-      "rate": 2
+      "date": "2024-10-03",
+      "rate": 10
    },
    {
       "de": "der April",
       "en": "the April",
       "type": "nomen",
-      "date": "2024-09-06",
-      "rate": 8
+      "date": "2024-10-03",
+      "rate": 10
    },
    {
       "de": "der August",
       "en": "the August",
       "type": "nomen",
-      "date": "2024-09-06",
+      "date": "2024-10-03",
       "rate": 10
    },
    {
       "de": "die Autobahn",
       "en": "the highway",
       "type": "nomen",
-      "date": "2024-09-06",
+      "date": "2024-10-01",
       "rate": 1
    },
    {
       "de": "die Bank",
       "en": "the Bank",
       "type": "nomen",
-      "date": "2024-09-06",
-      "rate": 3
+      "date": "2024-10-03",
+      "rate": 6
    },
    {
       "de": "der Bericht",
       "en": "the report",
       "type": "nomen",
-      "date": "2024-07-26",
+      "date": "2024-09-09",
       "rate": 0
    },
    {
       "de": "der Besucht",
       "en": "the visit",
       "type": "nomen",
-      "date": "2024-09-06",
-      "rate": 2
+      "date": "2024-10-03",
+      "rate": 8
    },
    {
       "de": "die Blume",
       "en": "the flower",
       "type": "nomen",
-      "date": "2024-09-06",
-      "rate": 2
+      "date": "2024-10-03",
+      "rate": 4
    },
    {
       "de": "der Boden",
       "en": "the floor",
       "type": "nomen",
-      "date": "2024-09-06",
-      "rate": 4
+      "date": "2024-10-03",
+      "rate": 10
    },
    {
       "de": "der Brief",
       "en": "the letter",
       "type": "nomen",
-      "date": "2024-08-23",
-      "rate": 8
+      "date": "2024-10-03",
+      "rate": 10
    },
    {
       "de": "die Decke",
       "en": "the blanket",
       "type": "nomen",
-      "date": "2024-09-06",
-      "rate": 3
+      "date": "2024-10-01",
+      "rate": 5
    },
    {
       "de": "der Dezember",
       "en": "the December",
       "type": "nomen",
-      "date": "2024-09-06",
-      "rate": 5
+      "date": "2024-10-03",
+      "rate": 10
    },
    {
       "de": "das Fahrrad",
       "en": "the bike",
       "type": "nomen",
-      "date": "2024-08-23",
-      "rate": 6
+      "date": "2024-10-03",
+      "rate": 9
    },
    {
       "de": "die Farbe",
       "en": "the color",
       "type": "nomen",
-      "date": "2024-07-24",
-      "rate": 5
+      "date": "2024-10-03",
+      "rate": 10
    },
    {
       "de": "der Februar",
       "en": "the February",
       "type": "nomen",
-      "date": "2024-09-06",
-      "rate": 4
+      "date": "2024-10-03",
+      "rate": 6
    },
    {
-      "de": "die Freund",
+      "de": "der Freund",
       "en": "the friend",
       "type": "nomen",
-      "date": "2024-09-06",
-      "rate": 2
+      "date": "2024-10-03",
+      "rate": 3
    },
    {
       "de": "die Haltestelle",
       "en": "the bus stop",
       "type": "nomen",
-      "date": "2024-08-23",
-      "rate": 0
+      "date": "2024-09-11",
+      "rate": 1
    },
    {
       "de": "der Handwerker",
       "en": "the Craftsman",
       "type": "nomen",
-      "date": "2024-09-06",
-      "rate": 3
+      "date": "2024-10-03",
+      "rate": 10
    },
    {
       "de": "die Heizung",
       "en": "the heating system",
       "type": "nomen",
-      "date": "2024-08-23",
+      "date": "2024-09-09",
       "rate": 0
    },
    {
       "de": "die Jacke",
       "en": "the jacket",
       "type": "nomen",
-      "date": "2024-09-06",
-      "rate": 8
+      "date": "2024-10-01",
+      "rate": 10
    },
    {
       "de": "der Januar",
       "en": "the January",
       "type": "nomen",
-      "date": "2024-09-06",
-      "rate": 5
+      "date": "2024-10-03",
+      "rate": 10
    },
    {
       "de": "der Juni",
       "en": "June",
       "type": "nomen",
-      "date": "2024-09-06",
-      "rate": 3
+      "date": "2024-10-03",
+      "rate": 8
    },
    {
       "de": "der Juli",
       "en": "July",
       "type": "nomen",
-      "date": "2024-09-06",
-      "rate": 3
+      "date": "2024-10-01",
+      "rate": 7
    },
    {
       "de": "die Katze",
       "en": "the cat",
       "type": "nomen",
-      "date": "2024-09-06",
-      "rate": 6
+      "date": "2024-09-30",
+      "rate": 10
    },
    {
       "de": "der Kindergarten",
       "en": "the kindergarten",
       "type": "nomen",
-      "date": "2024-09-06",
-      "rate": 1
+      "date": "2024-10-01",
+      "rate": 7
    },
    {
       "de": "der Knopf",
       "en": "the button",
       "type": "nomen",
-      "date": "2024-08-14",
-      "rate": 0
+      "date": "2024-10-03",
+      "rate": 2
    },
    {
       "de": "das Loch",
       "en": "the hole",
       "type": "nomen",
-      "date": "2024-09-06",
-      "rate": 4
+      "date": "2024-10-03",
+      "rate": 5
    },
    {
       "de": "das Madchen",
       "en": "the girl",
       "type": "nomen",
-      "date": "2024-09-06",
-      "rate": 6
+      "date": "2024-10-03",
+      "rate": 10
    },
    {
       "de": "der Mai",
       "en": "May",
       "type": "nomen",
-      "date": "2024-08-23",
-      "rate": 1
+      "date": "2024-09-11",
+      "rate": 4
    },
    {
       "de": "der Maler",
       "en": "the painter",
       "type": "nomen",
-      "date": "2024-08-23",
-      "rate": 3
+      "date": "2024-10-03",
+      "rate": 4
    },
    {
       "de": "der Mann",
       "en": "the man",
       "type": "nomen",
-      "date": "2024-09-06",
-      "rate": 9
+      "date": "2024-10-01",
+      "rate": 10
    },
    {
       "de": "der Marz",
       "en": "the March",
       "type": "nomen",
-      "date": "2024-09-06",
-      "rate": 8
+      "date": "2024-10-03",
+      "rate": 10
    },
    {
       "de": "die Moglichkeit",
       "en": "the possibility",
       "type": "nomen",
-      "date": "2024-09-06",
+      "date": "2024-09-11",
       "rate": 0
    },
    {
       "de": "der November",
       "en": "the November",
       "type": "nomen",
-      "date": "2024-09-06",
+      "date": "2024-10-03",
       "rate": 10
    },
    {
       "de": "der Oktober",
       "en": "October",
       "type": "nomen",
-      "date": "2024-09-06",
-      "rate": 3
+      "date": "2024-10-03",
+      "rate": 8
    },
    {
       "de": "der Parkplatz",
       "en": "the parking lot",
       "type": "nomen",
-      "date": "2024-09-06",
-      "rate": 0
+      "date": "2024-10-03",
+      "rate": 7
    },
    {
       "de": "das Pech",
       "en": "the bad luck",
       "type": "nomen",
-      "date": "2024-09-06",
-      "rate": 2
+      "date": "2024-09-09",
+      "rate": 0
    },
    {
       "de": "die Polizei",
       "en": "the police",
       "type": "nomen",
-      "date": "2024-09-06",
-      "rate": 8
+      "date": "2024-10-03",
+      "rate": 10
    },
    {
       "de": "der Polizist",
       "en": "the policeman",
       "type": "nomen",
-      "date": "2024-08-23",
-      "rate": 0
+      "date": "2024-09-09",
+      "rate": 1
    },
    {
       "de": "der Prufung",
       "en": "The examination",
       "type": "nomen",
-      "date": "2024-08-23",
-      "rate": 4
+      "date": "2024-10-03",
+      "rate": 3
    },
    {
       "de": "die Reise",
       "en": "the trip",
       "type": "nomen",
-      "date": "2024-09-06",
-      "rate": 4
+      "date": "2024-10-03",
+      "rate": 10
    },
    {
       "de": "die Sache",
       "en": "the thing",
       "type": "nomen",
-      "date": "2024-09-06",
-      "rate": 0
+      "date": "2024-10-03",
+      "rate": 9
    },
    {
       "de": "die Schule",
       "en": "the school",
       "type": "nomen",
-      "date": "2024-09-06",
-      "rate": 9
+      "date": "2024-10-03",
+      "rate": 10
    },
    {
       "de": "der September",
       "en": "the September",
       "type": "nomen",
-      "date": "2024-09-06",
-      "rate": 6
+      "date": "2024-10-03",
+      "rate": 10
    },
    {
       "de": "die Stadt",
       "en": "the city",
       "type": "nomen",
-      "date": "2024-07-29",
-      "rate": 4
+      "date": "2024-10-03",
+      "rate": 10
    },
    {
       "de": "der Supermarkt",
       "en": "the supermarket",
       "type": "nomen",
-      "date": "2024-09-06",
-      "rate": 5
+      "date": "2024-09-11",
+      "rate": 10
    },
    {
       "de": "das Theater",
       "en": "the theater",
       "type": "nomen",
-      "date": "2024-09-06",
-      "rate": 9
+      "date": "2024-10-03",
+      "rate": 10
    },
    {
       "de": "die Treppe",
       "en": "the stairs",
       "type": "nomen",
-      "date": "2024-08-14",
-      "rate": 3
+      "date": "2024-10-03",
+      "rate": 10
    },
    {
       "de": "die Tur",
       "en": "the door",
       "type": "nomen",
-      "date": "2024-07-24",
-      "rate": 2
+      "date": "2024-10-03",
+      "rate": 8
    },
    {
       "de": "der Unfall",
       "en": "the accident",
       "type": "nomen",
-      "date": "2024-07-18",
-      "rate": 0
+      "date": "2024-09-10",
+      "rate": 1
    },
    {
       "de": "der Vater",
       "en": "the father",
       "type": "nomen",
-      "date": "2024-09-06",
-      "rate": 9
+      "date": "2024-09-11",
+      "rate": 10
    },
    {
       "de": "die Welt",
       "en": "the world",
       "type": "nomen",
-      "date": "2024-07-24",
-      "rate": 3
+      "date": "2024-10-03",
+      "rate": 8
    },
    {
       "de": "die Weltreise",
       "en": "the world Tour",
       "type": "nomen",
-      "date": "2024-09-06",
-      "rate": 5
+      "date": "2024-09-09",
+      "rate": 7
    },
    {
       "de": "falsch",
       "en": "incorrect",
       "type": "adjektive",
-      "date": "2024-09-06",
-      "rate": 7
+      "date": "2024-09-11",
+      "rate": 10
    },
    {
       "de": "schrecklich",
       "en": "terrible",
       "type": "adjektive",
-      "date": "2024-07-18",
-      "rate": 0
+      "date": "2024-10-03",
+      "rate": 1
    },
    {
       "de": "still",
       "en": "quiet",
       "type": "adjektive",
-      "date": "2024-07-18",
+      "date": "2024-09-30",
       "rate": 0
    },
    {
       "de": "allein",
       "en": "alone",
       "type": "adverben",
-      "date": "2024-09-06",
+      "date": "2024-09-30",
       "rate": 9
    },
    {
       "de": "auf einmal",
       "en": "at once",
       "type": "adverben",
-      "date": "2024-07-24",
-      "rate": 0
+      "date": "2024-09-11",
+      "rate": 3
    },
    {
       "de": "auserdem",
       "en": "also",
       "type": "adverben",
-      "date": "2024-07-29",
+      "date": "2024-09-11",
       "rate": 0
    },
    {
       "de": "diesmal",
       "en": "this time",
       "type": "adverben",
-      "date": "2024-09-06",
-      "rate": 4
+      "date": "2024-10-03",
+      "rate": 7
    },
    {
       "de": "einfach",
       "en": "simply",
       "type": "adverben",
-      "date": "2024-08-23",
-      "rate": 2
+      "date": "2024-10-03",
+      "rate": 10
    },
    {
       "de": "gerade",
@@ -654,28 +654,28 @@
       "de": "gestern",
       "en": "yesterday",
       "type": "adverben",
-      "date": "2024-09-06",
-      "rate": 6
+      "date": "2024-09-11",
+      "rate": 10
    },
    {
       "de": "letztes Jahr",
       "en": "last year",
       "type": "adverben",
-      "date": "2024-09-06",
-      "rate": 4
+      "date": "2024-10-01",
+      "rate": 8
    },
    {
       "de": "wieder",
       "en": "again",
       "type": "adverben",
-      "date": "2024-09-06",
-      "rate": 0
+      "date": "2024-10-03",
+      "rate": 4
    },
    {
       "de": "wohl",
       "en": "probably",
       "type": "adverben",
-      "date": "2024-08-14",
-      "rate": 0
+      "date": "2024-10-01",
+      "rate": 1
    }
 ]

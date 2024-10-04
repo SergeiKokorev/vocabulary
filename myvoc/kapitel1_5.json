@@ -3,623 +3,623 @@
       "de": "anrufen",
       "en": "call",
       "type": "verbs",
-      "date": "2024-09-06",
+      "date": "2024-10-01",
       "rate": 10
    },
    {
       "de": "aussehen",
       "en": "look",
       "type": "verbs",
-      "date": "2024-09-06",
-      "rate": 9
+      "date": "2024-10-02",
+      "rate": 10
    },
    {
       "de": "baden",
       "en": "bathe",
       "type": "verbs",
-      "date": "2024-09-06",
-      "rate": 6
+      "date": "2024-10-01",
+      "rate": 10
    },
    {
       "de": "bauen",
       "en": "build",
       "type": "verbs",
-      "date": "2024-09-06",
+      "date": "2024-10-01",
       "rate": 10
    },
    {
       "de": "buchen",
       "en": "book",
       "type": "verbs",
-      "date": "2024-08-14",
-      "rate": 7
+      "date": "2024-10-01",
+      "rate": 10
    },
    {
       "de": "diskutieren",
       "en": "discuss",
       "type": "verbs",
-      "date": "2024-08-23",
-      "rate": 5
+      "date": "2024-10-01",
+      "rate": 10
    },
    {
       "de": "einziehen",
       "en": "move in",
       "type": "verbs",
-      "date": "2024-07-29",
-      "rate": 2
+      "date": "2024-10-01",
+      "rate": 0
    },
    {
       "de": "finden",
       "en": "find",
       "type": "verbs",
-      "date": "2024-09-06",
-      "rate": 4
+      "date": "2024-10-02",
+      "rate": 10
    },
    {
       "de": "herstellen",
       "en": "produce",
       "type": "verbs",
-      "date": "2024-09-06",
-      "rate": 2
+      "date": "2024-10-02",
+      "rate": 3
    },
    {
       "de": "informieren",
       "en": "inform",
       "type": "verbs",
-      "date": "2024-09-06",
+      "date": "2024-10-01",
       "rate": 10
    },
    {
       "de": "leihen",
       "en": "lend",
       "type": "verbs",
-      "date": "2024-08-23",
-      "rate": 5
+      "date": "2024-09-11",
+      "rate": 4
    },
    {
       "de": "liegen",
       "en": "lay",
       "type": "verbs",
-      "date": "2024-09-06",
-      "rate": 7
+      "date": "2024-10-02",
+      "rate": 10
    },
    {
       "de": "suchen",
       "en": "seek",
       "type": "verbs",
-      "date": "2024-09-06",
-      "rate": 7
+      "date": "2024-10-01",
+      "rate": 10
    },
    {
       "de": "tun",
       "en": "do",
       "type": "verbs",
-      "date": "2024-09-06",
-      "rate": 9
+      "date": "2024-10-02",
+      "rate": 10
    },
    {
       "de": "umziehen",
       "en": "move",
       "type": "verbs",
-      "date": "2024-09-06",
-      "rate": 6
+      "date": "2024-10-02",
+      "rate": 10
    },
    {
       "de": "verbieden",
       "en": "prohibit",
       "type": "verbs",
-      "date": "2024-07-22",
+      "date": "2024-09-11",
       "rate": 0
    },
    {
       "de": "verdienen",
       "en": "earn",
       "type": "verbs",
-      "date": "2024-09-06",
-      "rate": 0
+      "date": "2024-10-01",
+      "rate": 6
    },
    {
       "de": "wollen",
       "en": "want",
       "type": "verbs",
-      "date": "2024-09-06",
-      "rate": 7
+      "date": "2024-10-01",
+      "rate": 10
    },
    {
       "de": "der Appartement",
       "en": "the apartment",
       "type": "nouns",
-      "date": "2024-09-06",
+      "date": "2024-09-11",
       "rate": 1
    },
    {
       "de": "der Aufzug",
       "en": "the elevator",
       "type": "nouns",
-      "date": "2024-08-14",
-      "rate": 0
+      "date": "2024-10-02",
+      "rate": 5
    },
    {
       "de": "das Bad",
       "en": "the bathroom",
       "type": "nouns",
-      "date": "2024-09-06",
-      "rate": 1
+      "date": "2024-10-01",
+      "rate": 6
    },
    {
       "de": "der Balkon",
       "en": "the balcony",
       "type": "nouns",
-      "date": "2024-07-23",
-      "rate": 0
+      "date": "2024-10-01",
+      "rate": 4
    },
    {
       "de": "das Dach",
       "en": "the roof",
       "type": "nouns",
-      "date": "2024-08-06",
-      "rate": 0
+      "date": "2024-10-01",
+      "rate": 5
    },
    {
       "de": "das Ehepaar",
       "en": "the couple",
       "type": "nouns",
-      "date": "2024-08-14",
-      "rate": 8
+      "date": "2024-10-02",
+      "rate": 10
    },
    {
       "de": "das Einkommen",
       "en": "income",
       "type": "nouns",
-      "date": "2024-08-06",
-      "rate": 0
+      "date": "2024-09-11",
+      "rate": 2
    },
    {
       "de": "das Ende",
       "en": "the end",
       "type": "nouns",
-      "date": "2024-09-06",
-      "rate": 5
+      "date": "2024-10-01",
+      "rate": 10
    },
    {
       "de": "das Erdgeschoss",
       "en": "the ground floor",
       "type": "nouns",
-      "date": "2024-07-24",
+      "date": "2024-09-11",
       "rate": 0
    },
    {
       "de": "die Erlaubnis",
       "en": "the permission",
       "type": "nouns",
-      "date": "2024-09-06",
+      "date": "2024-10-01",
       "rate": 1
    },
    {
       "de": "die Familie",
       "en": "the family",
       "type": "nouns",
-      "date": "2024-09-06",
-      "rate": 10
+      "date": "2024-10-01",
+      "rate": 9
    },
    {
       "de": "das Fenster",
       "en": "the window",
       "type": "nouns",
-      "date": "2024-09-06",
-      "rate": 6
+      "date": "2024-09-30",
+      "rate": 4
    },
    {
       "de": "der Flur",
       "en": "the corridor",
       "type": "nouns",
-      "date": "2024-09-06",
-      "rate": 4
+      "date": "2024-10-01",
+      "rate": 10
    },
    {
       "de": "der Fusboden",
       "en": "the floor",
       "type": "nouns",
-      "date": "2024-08-23",
-      "rate": 5
+      "date": "2024-10-02",
+      "rate": 10
    },
    {
       "de": "die Garage",
       "en": "the garage",
       "type": "nouns",
-      "date": "2024-09-06",
+      "date": "2024-10-02",
       "rate": 10
    },
    {
       "de": "die Garderobe",
       "en": "the wardrobe",
       "type": "nouns",
-      "date": "2024-09-06",
+      "date": "2024-10-02",
       "rate": 10
    },
    {
       "de": "der Garten",
       "en": "the garden",
       "type": "nouns",
-      "date": "2024-09-06",
+      "date": "2024-10-01",
       "rate": 10
    },
    {
       "de": "das Hochhaus",
       "en": "the skyscraper",
       "type": "nouns",
-      "date": "2024-09-06",
+      "date": "2024-10-02",
       "rate": 10
    },
    {
       "de": "der Hof",
       "en": "the yard",
       "type": "nouns",
-      "date": "2024-09-06",
-      "rate": 4
+      "date": "2024-10-02",
+      "rate": 7
    },
    {
       "de": "das Hotel",
       "en": "the hotel",
       "type": "nouns",
-      "date": "2024-09-06",
-      "rate": 8
+      "date": "2024-10-02",
+      "rate": 10
    },
    {
       "de": "die Industrie",
       "en": "the industry",
       "type": "nouns",
-      "date": "2024-09-06",
-      "rate": 8
+      "date": "2024-09-10",
+      "rate": 10
    },
    {
       "de": "die Insel",
       "en": "the island",
       "type": "nouns",
-      "date": "2024-09-06",
-      "rate": 4
+      "date": "2024-10-02",
+      "rate": 6
    },
    {
       "de": "der Keller",
       "en": "the cellar",
       "type": "nouns",
-      "date": "2024-09-06",
-      "rate": 9
+      "date": "2024-10-02",
+      "rate": 10
    },
    {
       "de": "der Kiosk",
       "en": "the kiosk",
       "type": "nouns",
-      "date": "2024-07-26",
-      "rate": 1
+      "date": "2024-10-02",
+      "rate": 2
    },
    {
       "de": "der Komfort",
       "en": "the comfort",
       "type": "nouns",
-      "date": "2024-08-14",
-      "rate": 1
+      "date": "2024-10-01",
+      "rate": 0
    },
    {
       "de": "der Krach",
       "en": "The noise",
       "type": "nouns",
-      "date": "2024-09-06",
-      "rate": 8
+      "date": "2024-09-11",
+      "rate": 7
    },
    {
       "de": "der Larm",
       "en": "the noise",
       "type": "nouns",
-      "date": "2024-09-06",
-      "rate": 1
+      "date": "2024-10-02",
+      "rate": 3
    },
    {
       "de": "das Leben",
       "en": "the life",
       "type": "nouns",
-      "date": "2024-09-06",
+      "date": "2024-10-02",
       "rate": 10
    },
    {
       "de": "die Miete",
       "en": "the rent",
       "type": "nouns",
-      "date": "2024-09-06",
-      "rate": 2
+      "date": "2024-10-02",
+      "rate": 6
    },
    {
       "de": "der Mietvertrag",
       "en": "the lease agreement",
       "type": "nouns",
-      "date": "2024-09-06",
-      "rate": 2
+      "date": "2024-10-01",
+      "rate": 1
    },
    {
       "de": "die Mutter",
       "en": "the mother",
       "type": "nouns",
-      "date": "2024-08-06",
+      "date": "2024-10-01",
       "rate": 10
    },
    {
       "de": "der Nachbar",
       "en": "the neighbor",
       "type": "nouns",
-      "date": "2024-08-23",
-      "rate": 5
+      "date": "2024-10-02",
+      "rate": 9
    },
    {
       "de": "die Natur",
       "en": "the nature",
       "type": "nouns",
-      "date": "2024-08-14",
-      "rate": 2
+      "date": "2024-10-02",
+      "rate": 7
    },
    {
       "de": "der Quadratmeter",
       "en": "the square meter",
       "type": "nouns",
-      "date": "2024-09-06",
-      "rate": 7
+      "date": "2024-10-02",
+      "rate": 10
    },
    {
       "de": "der Raum",
       "en": "the space",
       "type": "nouns",
-      "date": "2024-09-06",
-      "rate": 3
+      "date": "2024-09-11",
+      "rate": 5
    },
    {
       "de": "das Reiseburo",
       "en": "the travel agency",
       "type": "nouns",
-      "date": "2024-09-06",
+      "date": "2024-09-30",
       "rate": 10
    },
    {
       "de": "die Rezeption",
       "en": "the reception",
       "type": "nouns",
-      "date": "2024-08-14",
-      "rate": 5
+      "date": "2024-09-10",
+      "rate": 1
    },
    {
       "de": "die Ruhe",
       "en": "the calm",
       "type": "nouns",
-      "date": "2024-09-06",
-      "rate": 7
+      "date": "2024-10-01",
+      "rate": 10
    },
    {
       "de": "das Schlafzimmer",
       "en": "the bedroom",
       "type": "nouns",
-      "date": "2024-09-06",
+      "date": "2024-10-01",
       "rate": 10
    },
    {
-      "de": "der Schribtisch",
+      "de": "der Schreibtisch",
       "en": "the desk",
       "type": "nouns",
-      "date": "2024-08-14",
+      "date": "2024-09-30",
       "rate": 8
    },
    {
       "de": "der Sessel",
       "en": "the armchair",
       "type": "nouns",
-      "date": "2024-09-06",
-      "rate": 6
+      "date": "2024-10-02",
+      "rate": 10
    },
    {
       "de": "die Sonne",
       "en": "the sun",
       "type": "nouns",
-      "date": "2024-09-06",
-      "rate": 9
+      "date": "2024-10-02",
+      "rate": 10
    },
    {
       "de": "der Spiegel",
       "en": "the mirror",
       "type": "nouns",
-      "date": "2024-09-06",
-      "rate": 6
+      "date": "2024-10-01",
+      "rate": 10
    },
    {
       "de": "der Stock",
       "en": "the stick",
       "type": "nouns",
-      "date": "2024-09-06",
-      "rate": 6
+      "date": "2024-09-11",
+      "rate": 10
    },
    {
       "de": "der Strandt",
       "en": "the beach",
       "type": "nouns",
-      "date": "2024-08-14",
+      "date": "2024-10-02",
       "rate": 9
    },
    {
       "de": "der Streit",
       "en": "the dispute",
       "type": "nouns",
-      "date": "2024-09-06",
-      "rate": 2
+      "date": "2024-10-01",
+      "rate": 9
    },
    {
       "de": "die Stunde",
       "en": "the hour",
       "type": "nouns",
-      "date": "2024-07-17",
-      "rate": 0
+      "date": "2024-09-30",
+      "rate": 1
    },
    {
       "de": "die Telefonzelle",
       "en": "the phone booth",
       "type": "nouns",
-      "date": "2024-09-06",
-      "rate": 3
+      "date": "2024-10-01",
+      "rate": 7
    },
    {
       "de": "der Teppich",
       "en": "the carpet",
       "type": "nouns",
-      "date": "2024-08-23",
-      "rate": 8
+      "date": "2024-10-01",
+      "rate": 10
    },
    {
       "de": "die Terrasse",
       "en": "the terrace",
       "type": "nouns",
-      "date": "2024-09-06",
-      "rate": 1
+      "date": "2024-09-11",
+      "rate": 2
    },
    {
       "de": "die Toilette",
       "en": "the toilet",
       "type": "nouns",
-      "date": "2024-09-06",
-      "rate": 4
+      "date": "2024-10-01",
+      "rate": 10
    },
    {
       "de": "der Urlaub",
       "en": "the holidays",
       "type": "nouns",
-      "date": "2024-09-06",
-      "rate": 3
+      "date": "2024-09-11",
+      "rate": 5
    },
    {
       "de": "das Urteil",
       "en": "the judgment",
       "type": "nouns",
-      "date": "2024-07-26",
-      "rate": 0
+      "date": "2024-10-01",
+      "rate": 1
    },
    {
       "de": "der Vermieter",
       "en": "the landlord",
       "type": "nouns",
-      "date": "2024-08-06",
-      "rate": 2
+      "date": "2024-09-11",
+      "rate": 9
    },
    {
       "de": "der Vogel",
       "en": "the bird",
       "type": "nouns",
-      "date": "2024-08-23",
+      "date": "2024-09-30",
       "rate": 10
    },
    {
       "de": "der Vorhang",
       "en": "the curtain",
       "type": "nouns",
-      "date": "2024-09-06",
-      "rate": 3
+      "date": "2024-10-01",
+      "rate": 10
    },
    {
       "de": "der Waggen",
       "en": "the wagon",
       "type": "nouns",
-      "date": "2024-09-06",
-      "rate": 8
+      "date": "2024-10-01",
+      "rate": 10
    },
    {
       "de": "der Wald",
       "en": "the forest",
       "type": "nouns",
-      "date": "2024-09-06",
+      "date": "2024-09-11",
       "rate": 10
    },
    {
       "de": "die Ware",
       "en": "the goods",
       "type": "nouns",
-      "date": "2024-08-23",
+      "date": "2024-10-02",
       "rate": 2
    },
    {
       "de": "die Wiese",
       "en": "the meadow",
       "type": "nouns",
-      "date": "2024-09-06",
-      "rate": 4
+      "date": "2024-10-01",
+      "rate": 6
    },
    {
       "de": "die Woche",
       "en": "the week",
       "type": "nouns",
-      "date": "2024-09-06",
+      "date": "2024-10-01",
       "rate": 10
    },
    {
       "de": "das Wohnzimmer",
       "en": "the living room",
       "type": "nouns",
-      "date": "2024-09-06",
-      "rate": 7
+      "date": "2024-10-02",
+      "rate": 10
    },
    {
       "de": "das Zimmer",
       "en": "the room",
       "type": "nouns",
-      "date": "2024-09-06",
+      "date": "2024-10-02",
       "rate": 10
    },
    {
       "de": "auserhalb",
       "en": "outside",
       "type": "adjectives",
-      "date": "2024-09-06",
-      "rate": 0
+      "date": "2024-10-02",
+      "rate": 1
    },
    {
       "de": "bald",
       "en": "soon",
       "type": "adjectives",
-      "date": "2024-09-06",
-      "rate": 9
+      "date": "2024-09-30",
+      "rate": 10
    },
    {
       "de": "drausen",
       "en": "outside",
       "type": "adjectives",
-      "date": "2024-09-06",
-      "rate": 2
+      "date": "2024-09-09",
+      "rate": 0
    },
    {
       "de": "endlich",
       "en": "finally",
       "type": "adjectives",
-      "date": "2024-09-06",
+      "date": "2024-10-02",
       "rate": 10
    },
    {
       "de": "nachts",
       "en": "at night",
       "type": "adjectives",
-      "date": "2024-07-23",
-      "rate": 0
+      "date": "2024-09-11",
+      "rate": 1
    },
    {
       "de": "sogar",
       "en": "even",
       "type": "adjectives",
-      "date": "2024-09-06",
-      "rate": 1
+      "date": "2024-10-02",
+      "rate": 5
    },
    {
       "de": "vorher",
       "en": "before",
       "type": "adjectives",
-      "date": "2024-09-06",
-      "rate": 8
+      "date": "2024-10-02",
+      "rate": 10
    },
    {
       "de": "ziemlich",
       "en": "quite",
       "type": "adjectives",
-      "date": "2024-07-17",
-      "rate": 0
+      "date": "2024-10-02",
+      "rate": 4
    }
 ]

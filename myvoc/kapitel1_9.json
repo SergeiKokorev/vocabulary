@@ -3,15 +3,15 @@
       "de": "beraten",
       "en": "advise",
       "type": "verben",
-      "date": "2024-08-23",
-      "rate": 5
+      "date": "2024-10-04",
+      "rate": 4
    },
    {
       "de": "erklaren",
       "en": "explain",
       "type": "verben",
-      "date": "2024-08-23",
-      "rate": 2
+      "date": "2024-10-04",
+      "rate": 8
    },
    {
       "de": "sich freuen",
@@ -24,54 +24,54 @@
       "de": "gebrauchen",
       "en": "use",
       "type": "verben",
-      "date": "2024-08-23",
-      "rate": 0
+      "date": "2024-10-04",
+      "rate": 1
    },
    {
       "de": "gefallen",
-      "en": "fallen",
+      "en": "suit",
       "type": "verben",
-      "date": "2024-08-14",
-      "rate": 0
+      "date": "2024-10-04",
+      "rate": 2
    },
    {
       "de": "lachen",
       "en": "laugh",
       "type": "verben",
-      "date": "2024-08-14",
-      "rate": 0
+      "date": "2024-10-04",
+      "rate": 7
    },
    {
       "de": "laufen",
       "en": "run",
       "type": "verben",
-      "date": "2024-08-23",
-      "rate": 7
+      "date": "2024-10-04",
+      "rate": 10
    },
    {
       "de": "lieben",
       "en": "love",
       "type": "verben",
-      "date": "2024-08-23",
-      "rate": 3
+      "date": "2024-10-01",
+      "rate": 6
    },
    {
       "de": "nennen",
       "en": "to name",
       "type": "verben",
-      "date": "2024-08-14",
-      "rate": 0
+      "date": "2024-10-04",
+      "rate": 3
    },
    {
       "de": "passen",
       "en": "fit",
       "type": "verben",
-      "date": "2024-08-23",
-      "rate": 4
+      "date": "2024-10-04",
+      "rate": 8
    },
    {
       "de": "reichen",
-      "en": "are sufficient",
+      "en": "suffice",
       "type": "verben",
       "date": "2024-08-14",
       "rate": 0
@@ -80,295 +80,295 @@
       "de": "tragen",
       "en": "wear",
       "type": "verben",
-      "date": "2024-08-23",
-      "rate": 6
+      "date": "2024-10-04",
+      "rate": 10
    },
    {
       "de": "verkaufen",
       "en": "sell",
       "type": "verben",
-      "date": "2024-08-23",
-      "rate": 6
+      "date": "2024-10-04",
+      "rate": 8
    },
    {
       "de": "zeigen",
       "en": "show",
       "type": "verben",
-      "date": "2024-08-23",
-      "rate": 3
+      "date": "2024-10-04",
+      "rate": 9
    },
    {
       "de": "zusammengehoren",
       "en": "belong together",
       "type": "verben",
       "date": "2024-08-23",
-      "rate": 2
+      "rate": 0
    },
    {
       "de": "der Abschnitt",
       "en": "the section",
       "type": "nomen",
       "date": "2024-08-23",
-      "rate": 2
+      "rate": 0
    },
    {
       "de": "der Bekannter",
       "en": "the acquaintance",
       "type": "nomen",
-      "date": "2024-08-23",
-      "rate": 1
+      "date": "2024-10-04",
+      "rate": 3
    },
    {
       "de": "die Beschaftigung",
       "en": "the employment",
       "type": "nomen",
       "date": "2024-08-23",
-      "rate": 1
+      "rate": 0
    },
    {
       "de": "die Datei",
       "en": "the date",
       "type": "nomen",
-      "date": "2024-08-14",
-      "rate": 0
+      "date": "2024-10-04",
+      "rate": 6
    },
    {
       "de": "die Erinnerung",
       "en": "the memory",
       "type": "nomen",
-      "date": "2024-08-23",
-      "rate": 1
+      "date": "2024-10-04",
+      "rate": 3
    },
    {
       "de": "die Feier",
       "en": "the party",
       "type": "nomen",
-      "date": "2024-08-14",
-      "rate": 0
+      "date": "2024-10-04",
+      "rate": 1
    },
    {
-      "de": "die Feuerzeug",
+      "de": "das Feuerzeug",
       "en": "the lighter",
       "type": "nomen",
-      "date": "2024-08-14",
-      "rate": 0
+      "date": "2024-10-01",
+      "rate": 1
    },
    {
       "de": "der Fuhrerschein",
       "en": "the driver's license",
       "type": "nomen",
-      "date": "2024-08-23",
-      "rate": 2
+      "date": "2024-10-01",
+      "rate": 1
    },
    {
-      "de": "der Geburstag",
+      "de": "der Geburtstag",
       "en": "the birthday",
       "type": "nomen",
-      "date": "2024-08-23",
-      "rate": 4
+      "date": "2024-10-04",
+      "rate": 1
    },
    {
       "de": "das Gerat",
       "en": "the device",
       "type": "nomen",
-      "date": "2024-08-23",
-      "rate": 1
+      "date": "2024-10-04",
+      "rate": 2
    },
    {
       "de": "die Handtasche",
       "en": "the handbag",
       "type": "nomen",
-      "date": "2024-08-23",
-      "rate": 3
+      "date": "2024-10-04",
+      "rate": 5
    },
    {
       "de": "die Hilfe",
       "en": "the help",
       "type": "nomen",
-      "date": "2024-08-14",
-      "rate": 0
+      "date": "2024-10-04",
+      "rate": 3
    },
    {
       "de": "das Holz",
       "en": "the wood",
       "type": "nomen",
-      "date": "2024-08-23",
-      "rate": 1
+      "date": "2024-10-04",
+      "rate": 2
    },
    {
       "de": "der Huhn",
       "en": "the chicken",
       "type": "nomen",
-      "date": "2024-08-23",
-      "rate": 1
+      "date": "2024-10-04",
+      "rate": 2
    },
    {
       "de": "die Kette",
       "en": "the chain",
       "type": "nomen",
-      "date": "2024-08-14",
-      "rate": 0
+      "date": "2024-10-04",
+      "rate": 3
    },
    {
       "de": "der Konig",
       "en": "the king",
       "type": "nomen",
-      "date": "2024-08-23",
-      "rate": 5
+      "date": "2024-10-04",
+      "rate": 10
    },
    {
       "de": "der Kuh",
       "en": "the cow",
       "type": "nomen",
-      "date": "2024-08-23",
-      "rate": 2
+      "date": "2024-10-04",
+      "rate": 10
    },
    {
       "de": "der Kunde",
       "en": "the customer",
       "type": "nomen",
-      "date": "2024-08-23",
-      "rate": 4
+      "date": "2024-09-12",
+      "rate": 3
    },
    {
       "de": "die Mobel",
       "en": "Furniture",
       "type": "nomen",
-      "date": "2024-08-23",
-      "rate": 5
+      "date": "2024-10-04",
+      "rate": 10
    },
    {
       "de": "die Party",
       "en": "the party",
       "type": "nomen",
-      "date": "2024-08-23",
-      "rate": 5
+      "date": "2024-10-01",
+      "rate": 3
    },
    {
       "de": "die Pfeife",
       "en": "the pipe",
       "type": "nomen",
-      "date": "2024-08-14",
+      "date": "2024-10-01",
       "rate": 0
    },
    {
       "de": "der Reisefuhrer",
       "en": "the travel guide",
       "type": "nomen",
-      "date": "2024-08-23",
-      "rate": 1
+      "date": "2024-10-04",
+      "rate": 3
    },
    {
       "de": "der Ring",
       "en": "the ring",
       "type": "nomen",
-      "date": "2024-08-23",
-      "rate": 1
+      "date": "2024-10-04",
+      "rate": 9
    },
    {
       "de": "der Schlafsack",
       "en": "the sleeping bag",
       "type": "nomen",
-      "date": "2024-08-23",
-      "rate": 1
+      "date": "2024-10-04",
+      "rate": 2
    },
    {
       "de": "der Schluss",
       "en": "the conclusion",
       "type": "nomen",
       "date": "2024-08-23",
-      "rate": 1
+      "rate": 0
    },
    {
       "de": "der Schmuck",
       "en": "the jewelry",
       "type": "nomen",
-      "date": "2024-08-23",
-      "rate": 4
+      "date": "2024-10-04",
+      "rate": 6
    },
    {
       "de": "der Storm",
       "en": "the storm",
       "type": "nomen",
-      "date": "2024-08-23",
-      "rate": 2
+      "date": "2024-10-04",
+      "rate": 10
    },
    {
       "de": "der Verkaufer",
       "en": "the seller",
       "type": "nomen",
-      "date": "2024-08-23",
-      "rate": 2
+      "date": "2024-10-04",
+      "rate": 10
    },
    {
       "de": "das Weihnachten",
       "en": "Christmas",
       "type": "nomen",
-      "date": "2024-08-14",
+      "date": "2024-09-12",
       "rate": 0
    },
    {
       "de": "das Werkzeug",
       "en": "the tool",
       "type": "nomen",
-      "date": "2024-08-23",
-      "rate": 1
+      "date": "2024-09-12",
+      "rate": 0
    },
    {
       "de": "das Worterbuch",
       "en": "the dictionary",
       "type": "nomen",
-      "date": "2024-08-23",
-      "rate": 3
+      "date": "2024-10-01",
+      "rate": 6
    },
    {
       "de": "der Wunsch",
       "en": "the desire",
       "type": "nomen",
-      "date": "2024-08-14",
+      "date": "2024-10-01",
       "rate": 0
    },
    {
       "de": "die Zeit",
       "en": "the time",
       "type": "nomen",
-      "date": "2024-08-14",
-      "rate": 0
+      "date": "2024-10-04",
+      "rate": 5
    },
    {
       "de": "breit",
       "en": "broad",
       "type": "adjektive",
-      "date": "2024-08-23",
-      "rate": 1
+      "date": "2024-10-04",
+      "rate": 4
    },
    {
       "de": "dunn",
       "en": "thin",
       "type": "adjektive",
-      "date": "2024-08-23",
-      "rate": 6
+      "date": "2024-10-04",
+      "rate": 10
    },
    {
       "de": "kurz",
       "en": "short",
       "type": "adjektive",
-      "date": "2024-08-23",
-      "rate": 5
+      "date": "2024-10-04",
+      "rate": 10
    },
    {
       "de": "lang",
       "en": "long",
       "type": "adjektive",
-      "date": "2024-08-23",
-      "rate": 5
+      "date": "2024-10-04",
+      "rate": 8
    },
    {
       "de": "langsam",
       "en": "slow",
       "type": "adjektive",
-      "date": "2024-08-23",
-      "rate": 3
+      "date": "2024-10-04",
+      "rate": 6
    },
    {
       "de": "lebendig",
@@ -381,49 +381,49 @@
       "de": "niedrig",
       "en": "low",
       "type": "adjektive",
-      "date": "2024-08-14",
-      "rate": 0
+      "date": "2024-10-04",
+      "rate": 5
    },
    {
       "de": "richtig",
       "en": "correct",
       "type": "adjektive",
-      "date": "2024-08-23",
+      "date": "2024-10-01",
       "rate": 2
    },
    {
       "de": "schmal",
       "en": "narrow",
       "type": "adjektive",
-      "date": "2024-08-23",
-      "rate": 1
+      "date": "2024-10-04",
+      "rate": 3
    },
    {
       "de": "schnell",
       "en": "fast",
       "type": "adjektive",
-      "date": "2024-08-23",
-      "rate": 3
+      "date": "2024-10-04",
+      "rate": 10
    },
    {
       "de": "wunderbach",
       "en": "wonderbach",
       "type": "adjektive",
-      "date": "2024-08-14",
-      "rate": 0
+      "date": "2024-10-04",
+      "rate": 3
    },
    {
       "de": "irgendwann",
       "en": "sometime",
       "type": "adverben",
-      "date": "2024-08-14",
-      "rate": 0
+      "date": "2024-09-12",
+      "rate": 1
    },
    {
       "de": "dashalb",
       "en": "that's why",
       "type": "adverben",
-      "date": "2024-08-14",
-      "rate": 0
+      "date": "2024-10-04",
+      "rate": 9
    }
 ]

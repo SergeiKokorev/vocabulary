@@ -38,7 +38,7 @@ def main(src, dest, exercise, num_words):
 
             translation = input(f'\t{i}) {word} ({type}), last time {dt}, rate: {rate}: ')
 
-            if translation.lower() == trans.lower():
+            if translation.replace(" ", "").lower() == trans.replace(" ", "").lower():
                 print('\t\tRight')
                 vocab[w]['date'] = date.today().isoformat()
                 right += 1
@@ -62,14 +62,14 @@ if __name__ == "__main__":
 
     while not _exit in ['n', 'N']:
 
-        src = input(f'Enter source {str(lang)[1:-1]}: ')
-        dest = input(f'Enter destanation: {str(lang)[1:-1]}: ')
+        src = input(f'Enter source language {str(lang)[1:-1]}: ')
+        dest = input(f'Enter destanation language: {str(lang)[1:-1]}: ')
         files = get_files(directory)
 
         for i, file in enumerate(files, 1):
-            print(f'\t{i}) {file}')
+            print(f'\t{i}) {os.path.splitext(file)[0]}')
 
-        file = int(input('Enter file (exercise) number: '))
+        file = int(input('Choose exercise number: '))
         num_words = int(input('Enter number of words to translate: '))
 
         main(src=src,

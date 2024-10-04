@@ -4,594 +4,594 @@
       "en": "take off",
       "type": "verben",
       "date": "2024-08-23",
-      "rate": 2
+      "rate": 0
    },
    {
       "de": "besorgen",
       "en": "obtain",
       "type": "verben",
-      "date": "2024-08-14",
-      "rate": 0
+      "date": "2024-10-03",
+      "rate": 4
    },
    {
       "de": "einzahlen",
       "en": "pay in",
       "type": "verben",
-      "date": "2024-07-30",
-      "rate": 0
+      "date": "2024-10-03",
+      "rate": 8
    },
    {
       "de": "erledigen",
       "en": "complete",
       "type": "verben",
-      "date": "2024-07-30",
+      "date": "2024-10-01",
       "rate": 0
    },
    {
       "de": "fehlen",
       "en": "miss",
       "type": "verben",
-      "date": "2024-07-30",
-      "rate": 0
+      "date": "2024-10-01",
+      "rate": 3
    },
    {
       "de": "fliegen",
       "en": "fly",
       "type": "verben",
-      "date": "2024-08-14",
-      "rate": 2
+      "date": "2024-10-03",
+      "rate": 10
    },
    {
       "de": "kaufen",
       "en": "buy",
       "type": "verben",
-      "date": "2024-08-23",
-      "rate": 3
+      "date": "2024-10-03",
+      "rate": 9
    },
    {
       "de": "legen",
       "en": "place",
       "type": "verben",
-      "date": "2024-07-30",
+      "date": "2024-09-12",
       "rate": 0
    },
    {
       "de": "reinigen",
       "en": "clean",
       "type": "verben",
-      "date": "2024-07-30",
-      "rate": 0
+      "date": "2024-10-03",
+      "rate": 1
    },
    {
       "de": "reparieren",
       "en": "repair",
       "type": "verben",
-      "date": "2024-08-23",
-      "rate": 2
+      "date": "2024-10-03",
+      "rate": 10
    },
    {
       "de": "schicken",
       "en": "send",
       "type": "verben",
-      "date": "2024-07-30",
-      "rate": 0
+      "date": "2024-10-03",
+      "rate": 3
    },
    {
       "de": "stehen",
       "en": "stand",
       "type": "verben",
-      "date": "2024-08-23",
-      "rate": 1
+      "date": "2024-10-03",
+      "rate": 6
    },
    {
       "de": "stellen",
       "en": "place",
       "type": "verben",
-      "date": "2024-08-23",
+      "date": "2024-10-01",
       "rate": 0
    },
    {
       "de": "ubernachten",
       "en": "stay overnight",
       "type": "verben",
-      "date": "2024-08-23",
-      "rate": 1
+      "date": "2024-10-03",
+      "rate": 10
    },
    {
       "de": "wechseln",
       "en": "change",
       "type": "verben",
-      "date": "2024-08-23",
-      "rate": 0
+      "date": "2024-10-01",
+      "rate": 1
    },
    {
       "de": "ziehen",
       "en": "pull",
       "type": "verben",
-      "date": "2024-08-23",
-      "rate": 5
+      "date": "2024-10-03",
+      "rate": 10
    },
    {
       "de": "zuruckgeben",
       "en": "return",
       "type": "verben",
-      "date": "2024-08-23",
-      "rate": 2
+      "date": "2024-10-03",
+      "rate": 10
    },
    {
       "de": "die Abfahrt",
       "en": "the farewell",
       "type": "nomen",
-      "date": "2024-07-30",
-      "rate": 0
+      "date": "2024-10-03",
+      "rate": 1
    },
    {
       "de": "die Auskunft",
       "en": "the information",
       "type": "nomen",
-      "date": "2024-08-14",
-      "rate": 0
+      "date": "2024-10-03",
+      "rate": 1
    },
    {
       "de": "die Bakerei",
       "en": "the bakery",
       "type": "nomen",
-      "date": "2024-08-23",
+      "date": "2024-10-03",
       "rate": 1
    },
    {
       "de": "die Bahn",
       "en": "the train",
       "type": "nomen",
-      "date": "2024-08-14",
+      "date": "2024-09-12",
       "rate": 0
    },
    {
       "de": "die Briefmarke",
       "en": "the stamp",
       "type": "nomen",
-      "date": "2024-07-30",
-      "rate": 0
+      "date": "2024-10-03",
+      "rate": 1
    },
    {
-      "de": "die Buchhabdlung",
+      "de": "die Buchhandlung",
       "en": "the bookkeeping",
       "type": "nomen",
-      "date": "2024-07-30",
+      "date": "2024-09-12",
       "rate": 0
    },
    {
       "de": "der Burger",
       "en": "the citizen",
       "type": "nomen",
-      "date": "2024-07-30",
-      "rate": 2
+      "date": "2024-10-03",
+      "rate": 10
    },
    {
       "de": "der Bus",
       "en": "the bus",
       "type": "nomen",
-      "date": "2024-08-23",
-      "rate": 3
+      "date": "2024-10-03",
+      "rate": 6
    },
    {
       "de": "das Ding",
       "en": "the thing",
       "type": "nomen",
-      "date": "2024-07-30",
-      "rate": 0
+      "date": "2024-10-01",
+      "rate": 4
    },
    {
       "de": "die Ecke",
       "en": "the corner",
       "type": "nomen",
-      "date": "2024-08-23",
-      "rate": 3
+      "date": "2024-10-03",
+      "rate": 10
    },
    {
       "de": "die Erwachsene",
       "en": "the adults",
       "type": "nomen",
-      "date": "2024-07-30",
+      "date": "2024-10-01",
       "rate": 0
    },
    {
       "de": "die Fahrkarte",
       "en": "the ticket",
       "type": "nomen",
-      "date": "2024-07-30",
-      "rate": 0
+      "date": "2024-10-03",
+      "rate": 8
    },
    {
       "de": "der Fahrplan",
       "en": "the timetable",
       "type": "nomen",
-      "date": "2024-07-30",
-      "rate": 0
+      "date": "2024-10-03",
+      "rate": 4
    },
    {
       "de": "die Fahrt",
       "en": "the ride",
       "type": "nomen",
-      "date": "2024-08-23",
+      "date": "2024-10-03",
       "rate": 1
    },
    {
       "de": "der Fernsehturm",
       "en": "the TV tower",
       "type": "nomen",
-      "date": "2024-08-23",
-      "rate": 2
+      "date": "2024-10-03",
+      "rate": 1
    },
    {
       "de": "der Flughafen",
       "en": "the airport",
       "type": "nomen",
-      "date": "2024-07-30",
-      "rate": 0
+      "date": "2024-09-12",
+      "rate": 5
    },
    {
       "de": "das Flugzeug",
       "en": "The plane",
       "type": "nomen",
-      "date": "2024-07-30",
+      "date": "2024-09-10",
       "rate": 0
    },
    {
       "de": "die Freiheit",
       "en": "the freedom",
       "type": "nomen",
-      "date": "2024-08-14",
-      "rate": 0
+      "date": "2024-10-03",
+      "rate": 2
    },
    {
       "de": "das Gebaude",
       "en": "the building",
       "type": "nomen",
-      "date": "2024-08-23",
-      "rate": 1
+      "date": "2024-10-03",
+      "rate": 4
    },
    {
       "de": "das Interesse",
       "en": "the interest",
       "type": "nomen",
-      "date": "2024-07-30",
-      "rate": 0
+      "date": "2024-10-03",
+      "rate": 6
    },
    {
       "de": "der Journalist",
       "en": "the journalist",
       "type": "nomen",
-      "date": "2024-08-23",
-      "rate": 8
+      "date": "2024-10-03",
+      "rate": 10
    },
    {
       "de": "der Jugendlich",
       "en": "the youth",
       "type": "nomen",
-      "date": "2024-07-30",
-      "rate": 0
+      "date": "2024-10-03",
+      "rate": 2
    },
    {
       "de": "die Kirche",
       "en": "the church",
       "type": "nomen",
-      "date": "2024-08-23",
-      "rate": 5
+      "date": "2024-10-03",
+      "rate": 10
    },
    {
       "de": "die Kleidung",
       "en": "the clothing",
       "type": "nomen",
-      "date": "2024-07-30",
-      "rate": 0
+      "date": "2024-10-03",
+      "rate": 1
    },
    {
-      "de": "der Kreig",
+      "de": "der Krieg",
       "en": "the war",
       "type": "nomen",
-      "date": "2024-08-14",
-      "rate": 0
+      "date": "2024-09-12",
+      "rate": 1
    },
    {
       "de": "der Kunstler",
       "en": "the artist",
       "type": "nomen",
-      "date": "2024-08-23",
-      "rate": 4
+      "date": "2024-10-01",
+      "rate": 5
    },
    {
       "de": "der Mantel",
       "en": "the coat",
       "type": "nomen",
-      "date": "2024-08-23",
-      "rate": 5
+      "date": "2024-10-01",
+      "rate": 10
    },
    {
       "de": "die Mauer",
       "en": "the wall",
       "type": "nomen",
-      "date": "2024-07-30",
-      "rate": 0
+      "date": "2024-10-03",
+      "rate": 4
    },
    {
-      "de": "die Metzgerei",
+      "de": "der Metzger",
       "en": "the butcher",
       "type": "nomen",
-      "date": "2024-07-30",
-      "rate": 0
+      "date": "2024-10-01",
+      "rate": 5
    },
    {
       "de": "die Mitte",
       "en": "the middle",
       "type": "nomen",
-      "date": "2024-08-14",
-      "rate": 1
+      "date": "2024-10-03",
+      "rate": 10
    },
    {
       "de": "das Museum",
       "en": "the museum",
       "type": "nomen",
-      "date": "2024-08-23",
-      "rate": 5
+      "date": "2024-10-03",
+      "rate": 7
    },
    {
       "de": "der Norden",
       "en": "the North",
       "type": "nomen",
-      "date": "2024-08-23",
-      "rate": 4
+      "date": "2024-10-03",
+      "rate": 10
    },
    {
       "de": "die Oper",
       "en": "The opera",
       "type": "nomen",
-      "date": "2024-08-23",
-      "rate": 1
+      "date": "2024-10-01",
+      "rate": 3
    },
    {
       "de": "der Osten",
       "en": "The East",
       "type": "nomen",
-      "date": "2024-08-23",
-      "rate": 1
+      "date": "2024-10-03",
+      "rate": 2
    },
    {
       "de": "das Paket",
       "en": "the package",
       "type": "nomen",
-      "date": "2024-07-30",
-      "rate": 0
+      "date": "2024-10-01",
+      "rate": 1
    },
    {
       "de": "der Park",
       "en": "the park",
       "type": "nomen",
-      "date": "2024-08-23",
-      "rate": 4
+      "date": "2024-10-03",
+      "rate": 5
    },
    {
       "de": "der Pass",
       "en": "the passport",
       "type": "nomen",
-      "date": "2024-08-23",
-      "rate": 3
+      "date": "2024-10-03",
+      "rate": 10
    },
    {
       "de": "der Platz",
       "en": "the space",
       "type": "nomen",
-      "date": "2024-07-30",
-      "rate": 0
+      "date": "2024-10-03",
+      "rate": 6
    },
    {
       "de": "die Post",
       "en": "the post",
       "type": "nomen",
-      "date": "2024-08-23",
-      "rate": 1
+      "date": "2024-10-03",
+      "rate": 4
    },
    {
       "de": "das Rathaus",
       "en": "the town hall",
       "type": "nomen",
-      "date": "2024-08-14",
-      "rate": 2
+      "date": "2024-10-03",
+      "rate": 8
    },
    {
       "de": "die Reinigung",
       "en": "the cleaning",
       "type": "nomen",
-      "date": "2024-07-30",
-      "rate": 0
+      "date": "2024-10-03",
+      "rate": 3
    },
    {
       "de": "der Rest",
       "en": "the rest",
       "type": "nomen",
-      "date": "2024-08-23",
-      "rate": 2
+      "date": "2024-09-11",
+      "rate": 0
    },
    {
       "de": "der Schalter",
       "en": "the desk",
       "type": "nomen",
-      "date": "2024-08-14",
-      "rate": 1
+      "date": "2024-10-03",
+      "rate": 2
    },
    {
       "de": "der See",
       "en": "the lake",
       "type": "nomen",
-      "date": "2024-08-23",
-      "rate": 3
+      "date": "2024-10-03",
+      "rate": 10
    },
    {
       "de": "der Sohn",
       "en": "the son",
       "type": "nomen",
-      "date": "2024-08-23",
-      "rate": 4
+      "date": "2024-10-03",
+      "rate": 10
    },
    {
       "de": "die Staatsoper",
       "en": "the State Opera",
       "type": "nomen",
-      "date": "2024-07-30",
-      "rate": 0
+      "date": "2024-10-01",
+      "rate": 3
    },
    {
       "de": "der Stadtplan",
       "en": "the city map",
       "type": "nomen",
-      "date": "2024-08-14",
-      "rate": 1
+      "date": "2024-10-03",
+      "rate": 10
    },
    {
       "de": "der Suden",
       "en": "the South",
       "type": "nomen",
-      "date": "2024-08-23",
-      "rate": 6
+      "date": "2024-10-03",
+      "rate": 10
    },
    {
       "de": "der Teil",
       "en": "the part",
       "type": "nomen",
-      "date": "2024-08-23",
-      "rate": 2
+      "date": "2024-10-03",
+      "rate": 3
    },
    {
       "de": "das Tor",
       "en": "the gate",
       "type": "nomen",
-      "date": "2024-08-23",
-      "rate": 1
+      "date": "2024-10-03",
+      "rate": 9
    },
    {
       "de": "der Turm",
       "en": "the tower",
       "type": "nomen",
-      "date": "2024-08-23",
-      "rate": 1
+      "date": "2024-10-03",
+      "rate": 3
    },
    {
       "de": "die Universitat",
       "en": "the University",
       "type": "nomen",
-      "date": "2024-08-23",
-      "rate": 2
+      "date": "2024-10-03",
+      "rate": 6
    },
    {
       "de": "die Wahl",
       "en": "the choice",
       "type": "nomen",
       "date": "2024-08-23",
-      "rate": 1
+      "rate": 0
    },
    {
       "de": "der Weg",
       "en": "the way",
       "type": "nomen",
-      "date": "2024-08-23",
-      "rate": 4
+      "date": "2024-10-03",
+      "rate": 3
    },
    {
       "de": "der Westen",
       "en": "the West",
       "type": "nomen",
-      "date": "2024-08-14",
-      "rate": 1
+      "date": "2024-10-03",
+      "rate": 10
    },
    {
       "de": "das Zentrum",
       "en": "the center",
       "type": "nomen",
-      "date": "2024-07-30",
-      "rate": 0
+      "date": "2024-10-03",
+      "rate": 10
    },
    {
       "de": "arbeitslos",
       "en": "unemployed",
       "type": "adjektive",
-      "date": "2024-07-30",
+      "date": "2024-10-01",
       "rate": 0
    },
    {
       "de": "beruhmt",
       "en": "famous",
       "type": "adjektive",
-      "date": "2024-08-23",
-      "rate": 4
+      "date": "2024-10-03",
+      "rate": 10
    },
    {
       "de": "deutsch",
       "en": "German",
       "type": "adjektive",
-      "date": "2024-08-23",
-      "rate": 5
+      "date": "2024-10-03",
+      "rate": 10
    },
    {
       "de": "fruher",
       "en": "earlier",
       "type": "adjektive",
-      "date": "2024-08-23",
-      "rate": 0
+      "date": "2024-10-03",
+      "rate": 10
    },
    {
       "de": "sozial",
       "en": "social",
       "type": "adjektive",
-      "date": "2024-08-23",
-      "rate": 3
+      "date": "2024-10-01",
+      "rate": 4
    },
    {
       "de": "voll",
       "en": "full",
       "type": "adjektive",
-      "date": "2024-07-30",
-      "rate": 0
+      "date": "2024-10-03",
+      "rate": 6
    },
    {
       "de": "anderes",
       "en": "different",
       "type": "adverben",
-      "date": "2024-07-30",
-      "rate": 0
+      "date": "2024-10-03",
+      "rate": 5
    },
    {
       "de": "geradeaus",
       "en": "straight ahead",
       "type": "adverben",
-      "date": "2024-08-14",
-      "rate": 2
+      "date": "2024-10-03",
+      "rate": 6
    },
    {
       "de": "links",
       "en": "Left",
       "type": "adverben",
-      "date": "2024-07-30",
-      "rate": 0
+      "date": "2024-10-03",
+      "rate": 3
    },
    {
       "de": "rechts",
       "en": "right",
       "type": "adverben",
-      "date": "2024-08-23",
-      "rate": 1
+      "date": "2024-10-03",
+      "rate": 4
    },
    {
       "de": "vollig",
       "en": "fully",
       "type": "adverben",
-      "date": "2024-07-30",
-      "rate": 0
+      "date": "2024-10-03",
+      "rate": 6
    },
    {
       "de": "weiter",
       "en": "further",
       "type": "adverben",
-      "date": "2024-08-23",
+      "date": "2024-10-03",
       "rate": 4
    }
 ]
