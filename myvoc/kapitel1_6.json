@@ -3,15 +3,15 @@
       "de": "aufwachen",
       "en": "wake up",
       "type": "verben",
-      "date": "2024-10-03",
-      "rate": 7
+      "date": "2024-10-10",
+      "rate": 8
    },
    {
       "de": "bedeuten",
       "en": "mean",
       "type": "verben",
-      "date": "2024-09-10",
-      "rate": 0
+      "date": "2024-10-10",
+      "rate": 3
    },
    {
       "de": "besuchen",
@@ -24,21 +24,21 @@
       "de": "bleiben",
       "en": "remain",
       "type": "verben",
-      "date": "2024-10-03",
+      "date": "2024-10-10",
       "rate": 10
    },
    {
       "de": "dauern",
       "en": "last",
       "type": "verben",
-      "date": "2024-10-03",
-      "rate": 5
+      "date": "2024-10-10",
+      "rate": 6
    },
    {
       "de": "einpacken",
       "en": "wrap up",
       "type": "verben",
-      "date": "2024-10-03",
+      "date": "2024-10-10",
       "rate": 10
    },
    {
@@ -52,28 +52,28 @@
       "de": "erkaltet sein",
       "en": "to have a cold",
       "type": "verben",
-      "date": "2024-10-03",
-      "rate": 1
+      "date": "2024-10-10",
+      "rate": 3
    },
    {
       "de": "gehen",
       "en": "go",
       "type": "verben",
-      "date": "2024-10-03",
+      "date": "2024-10-10",
       "rate": 10
    },
    {
       "de": "helfen",
       "en": "help",
       "type": "verben",
-      "date": "2024-10-03",
+      "date": "2024-10-10",
       "rate": 10
    },
    {
       "de": "hinfallen",
       "en": "falling down",
       "type": "verben",
-      "date": "2024-10-03",
+      "date": "2024-10-10",
       "rate": 10
    },
    {
@@ -94,98 +94,91 @@
       "de": "packen",
       "en": "pack",
       "type": "verben",
-      "date": "2024-10-03",
+      "date": "2024-10-10",
       "rate": 10
    },
    {
       "de": "passieren",
       "en": "happen",
       "type": "verben",
-      "date": "2024-10-02",
-      "rate": 9
+      "date": "2024-10-10",
+      "rate": 10
    },
    {
       "de": "Recht haben",
       "en": "to be right",
       "type": "verben",
       "date": "2024-10-03",
-      "rate": 10
+      "rate": 9
    },
    {
       "de": "stehen",
       "en": "stand",
       "type": "verben",
-      "date": "2024-10-03",
+      "date": "2024-10-10",
       "rate": 10
    },
    {
       "de": "sollen",
       "en": "should",
       "type": "verben",
-      "date": "2024-10-02",
-      "rate": 5
-   },
-   {
-      "de": "stehen",
-      "en": "stand",
-      "type": "verben",
-      "date": "2024-10-03",
-      "rate": 10
+      "date": "2024-10-10",
+      "rate": 7
    },
    {
       "de": "tun",
       "en": "do",
       "type": "verben",
-      "date": "2024-09-30",
+      "date": "2024-10-10",
       "rate": 10
    },
    {
       "de": "verstehen",
       "en": "understand",
       "type": "verben",
-      "date": "2024-10-03",
-      "rate": 9
+      "date": "2024-10-10",
+      "rate": 10
    },
    {
       "de": "wehtun",
       "en": "hurt",
       "type": "verben",
-      "date": "2024-10-03",
+      "date": "2024-10-10",
       "rate": 10
    },
    {
       "de": "die Angst",
       "en": "the fear",
       "type": "nomen",
-      "date": "2024-10-03",
-      "rate": 5
+      "date": "2024-10-10",
+      "rate": 8
    },
    {
       "de": "die Apotheke",
       "en": "the pharmacy",
       "type": "nomen",
-      "date": "2024-10-03",
+      "date": "2024-10-10",
       "rate": 10
    },
    {
       "de": "der Arzt",
       "en": "the doctor",
       "type": "nomen",
-      "date": "2024-10-03",
-      "rate": 7
+      "date": "2024-10-10",
+      "rate": 8
    },
    {
       "de": "das Auge",
       "en": "the eye",
       "type": "nomen",
-      "date": "2024-10-03",
+      "date": "2024-10-10",
       "rate": 10
    },
    {
       "de": "der Bahnhof",
       "en": "the station",
       "type": "nomen",
-      "date": "2024-10-03",
+      "date": "2024-10-10",
       "rate": 2
    },
    {
@@ -203,11 +196,11 @@
       "rate": 0
    },
    {
-      "de": "das Bespiel",
+      "de": "das Beispiel",
       "en": "the example",
       "type": "nomen",
-      "date": "2024-10-03",
-      "rate": 9
+      "date": "2024-10-10",
+      "rate": 10
    },
    {
       "de": "die Brust",
@@ -220,8 +213,8 @@
       "de": "der Chef",
       "en": "the boss",
       "type": "nomen",
-      "date": "2024-09-11",
-      "rate": 7
+      "date": "2024-10-10",
+      "rate": 9
    },
    {
       "de": "der Doktor",
@@ -234,15 +227,15 @@
       "de": "das Drittel",
       "en": "a third",
       "type": "nomen",
-      "date": "2024-10-03",
-      "rate": 3
+      "date": "2024-10-10",
+      "rate": 4
    },
    {
       "de": "die Drogerie",
       "en": "the drugstore",
       "type": "nomen",
-      "date": "2024-09-06",
-      "rate": 0
+      "date": "2024-10-10",
+      "rate": 2
    },
    {
       "de": "die Erkaltung",
@@ -255,35 +248,35 @@
       "de": "die Frage",
       "en": "the question",
       "type": "nomen",
-      "date": "2024-09-30",
+      "date": "2024-10-10",
       "rate": 10
    },
    {
       "de": "der Fus",
       "en": "the foot",
       "type": "nomen",
-      "date": "2024-10-03",
+      "date": "2024-10-10",
       "rate": 10
    },
    {
       "de": "der Fusball",
       "en": "the football",
       "type": "nomen",
-      "date": "2024-10-03",
+      "date": "2024-10-10",
       "rate": 10
    },
    {
       "de": "die Geschichte",
       "en": "the history",
       "type": "nomen",
-      "date": "2024-10-03",
+      "date": "2024-10-10",
       "rate": 10
    },
    {
       "de": "die Gesundheit",
       "en": "the health",
       "type": "nomen",
-      "date": "2024-10-03",
+      "date": "2024-10-10",
       "rate": 10
    },
    {
@@ -297,21 +290,21 @@
       "de": "die Grippe",
       "en": "the flu",
       "type": "nomen",
-      "date": "2024-10-03",
-      "rate": 7
+      "date": "2024-10-10",
+      "rate": 9
    },
    {
       "de": "der Hals",
       "en": "the neck",
       "type": "nomen",
-      "date": "2024-10-03",
-      "rate": 8
+      "date": "2024-10-10",
+      "rate": 9
    },
    {
       "de": "der Hand",
       "en": "the hand",
       "type": "nomen",
-      "date": "2024-10-03",
+      "date": "2024-10-10",
       "rate": 10
    },
    {
@@ -319,48 +312,48 @@
       "en": "the glove",
       "type": "nomen",
       "date": "2024-10-02",
-      "rate": 7
+      "rate": 6
    },
    {
       "de": "der Husten",
       "en": "the cough",
       "type": "nomen",
-      "date": "2024-07-24",
-      "rate": 0
+      "date": "2024-10-10",
+      "rate": 1
    },
    {
       "de": "das Knie",
       "en": "the knee",
       "type": "nomen",
-      "date": "2024-10-03",
-      "rate": 6
+      "date": "2024-10-10",
+      "rate": 7
    },
    {
       "de": "der Kollege",
       "en": "The colleague",
       "type": "nomen",
-      "date": "2024-10-03",
+      "date": "2024-10-10",
       "rate": 6
    },
    {
       "de": "der Koffer",
       "en": "the suitcase",
       "type": "nomen",
-      "date": "2024-10-03",
+      "date": "2024-10-10",
       "rate": 10
    },
    {
       "de": "der Konflikt",
       "en": "the conflict",
       "type": "nomen",
-      "date": "2024-10-03",
-      "rate": 9
+      "date": "2024-10-10",
+      "rate": 10
    },
    {
       "de": "der Kopf",
       "en": "the head",
       "type": "nomen",
-      "date": "2024-10-03",
+      "date": "2024-10-10",
       "rate": 10
    },
    {
@@ -375,13 +368,13 @@
       "en": "the disease",
       "type": "nomen",
       "date": "2024-10-03",
-      "rate": 2
+      "rate": 1
    },
    {
       "de": "das Licht",
       "en": "the light",
       "type": "nomen",
-      "date": "2024-10-03",
+      "date": "2024-10-10",
       "rate": 10
    },
    {
@@ -396,7 +389,7 @@
       "en": "the stomach",
       "type": "nomen",
       "date": "2024-10-03",
-      "rate": 4
+      "rate": 3
    },
    {
       "de": "das Medikamenten",
@@ -409,15 +402,15 @@
       "de": "der Mund",
       "en": "the mouth",
       "type": "nomen",
-      "date": "2024-10-03",
+      "date": "2024-10-10",
       "rate": 10
    },
    {
       "de": "die Mutze",
       "en": "the cap",
       "type": "nomen",
-      "date": "2024-10-03",
-      "rate": 10
+      "date": "2024-10-10",
+      "rate": 9
    },
    {
       "de": "die Nacht",
@@ -430,29 +423,29 @@
       "de": "die Nase",
       "en": "the nose",
       "type": "nomen",
-      "date": "2024-10-03",
+      "date": "2024-10-10",
       "rate": 9
    },
    {
       "de": "das Obst",
       "en": "the fruit",
       "type": "nomen",
-      "date": "2024-10-03",
+      "date": "2024-10-10",
       "rate": 10
    },
    {
       "de": "das Papier",
       "en": "the paper",
       "type": "nomen",
-      "date": "2024-10-03",
-      "rate": 4
+      "date": "2024-10-10",
+      "rate": 6
    },
    {
       "de": "der Pullover",
       "en": "the sweater",
       "type": "nomen",
-      "date": "2024-09-30",
-      "rate": 6
+      "date": "2024-10-10",
+      "rate": 9
    },
    {
       "de": "das Pflaster",
@@ -465,14 +458,14 @@
       "de": "der Rat",
       "en": "the Council",
       "type": "nomen",
-      "date": "2024-10-03",
+      "date": "2024-10-10",
       "rate": 10
    },
    {
       "de": "der Rucken",
       "en": "the back",
       "type": "nomen",
-      "date": "2024-10-03",
+      "date": "2024-10-10",
       "rate": 10
    },
    {
@@ -487,13 +480,13 @@
       "en": "the cold",
       "type": "nomen",
       "date": "2024-10-03",
-      "rate": 2
+      "rate": 0
    },
    {
       "de": "das Spiel",
       "en": "the game",
       "type": "nomen",
-      "date": "2024-10-03",
+      "date": "2024-10-10",
       "rate": 10
    },
    {
@@ -508,14 +501,14 @@
       "en": "the consultation",
       "type": "nomen",
       "date": "2024-10-03",
-      "rate": 2
+      "rate": 1
    },
    {
       "de": "die Tablette",
       "en": "the pill",
       "type": "nomen",
       "date": "2024-10-03",
-      "rate": 9
+      "rate": 8
    },
    {
       "de": "das Thema",
@@ -542,11 +535,11 @@
       "de": "das Verbandszeug",
       "en": "the first aid kid",
       "type": "nomen",
-      "date": "2024-09-10",
-      "rate": 0
+      "date": "2024-10-10",
+      "rate": 1
    },
    {
-      "de": "die Versopfung",
+      "de": "die Verstopfung",
       "en": "the constipation",
       "type": "nomen",
       "date": "2024-10-03",
@@ -556,29 +549,29 @@
       "de": "der Wecker",
       "en": "the alarm clock",
       "type": "nomen",
-      "date": "2024-10-03",
+      "date": "2024-10-10",
       "rate": 10
    },
    {
       "de": "das Wochenende",
       "en": "the weekend",
       "type": "nomen",
-      "date": "2024-10-03",
-      "rate": 2
+      "date": "2024-10-10",
+      "rate": 3
    },
    {
       "de": "der Zahn",
       "en": "the tooth",
       "type": "nomen",
-      "date": "2024-10-03",
+      "date": "2024-10-10",
       "rate": 10
    },
    {
       "de": "bestimmt",
       "en": "certainly",
       "type": "adjektive",
-      "date": "2024-09-11",
-      "rate": 0
+      "date": "2024-10-10",
+      "rate": 4
    },
    {
       "de": "blos",
@@ -598,7 +591,7 @@
       "de": "genau",
       "en": "Exactly",
       "type": "adjektive",
-      "date": "2024-09-30",
+      "date": "2024-10-10",
       "rate": 10
    },
    {
@@ -613,14 +606,14 @@
       "en": "at most",
       "type": "adjektive",
       "date": "2024-09-11",
-      "rate": 1
+      "rate": 0
    },
    {
       "de": "lange",
       "en": "long",
       "type": "adjektive",
       "date": "2024-09-11",
-      "rate": 6
+      "rate": 5
    },
    {
       "de": "plotzlich",
@@ -633,21 +626,21 @@
       "de": "taglich",
       "en": "daily",
       "type": "adjektive",
-      "date": "2024-10-03",
+      "date": "2024-10-10",
       "rate": 10
    },
    {
       "de": "unbedingt",
       "en": "absolutely",
       "type": "adjektive",
-      "date": "2024-10-03",
-      "rate": 3
+      "date": "2024-10-10",
+      "rate": 5
    },
    {
       "de": "wirklich",
       "en": "really",
       "type": "adjektive",
-      "date": "2024-10-03",
+      "date": "2024-10-10",
       "rate": 10
    }
 ]

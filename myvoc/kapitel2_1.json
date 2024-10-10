@@ -3,22 +3,22 @@
       "de": "andern",
       "en": "change",
       "type": "verben",
-      "date": "2024-10-04",
-      "rate": 2
+      "date": "2024-10-09",
+      "rate": 3
    },
    {
       "de": "ansehen",
       "en": "view",
       "type": "verben",
-      "date": "2024-10-04",
-      "rate": 1
+      "date": "2024-10-09",
+      "rate": 10
    },
    {
       "de": "anziehen",
       "en": "put on",
       "type": "verben",
-      "date": "2024-10-02",
-      "rate": 0
+      "date": "2024-10-09",
+      "rate": 3
    },
    {
       "de": "argern",
@@ -31,85 +31,85 @@
       "de": "aussehen",
       "en": "look",
       "type": "verben",
-      "date": "2024-10-04",
-      "rate": 1
+      "date": "2024-10-09",
+      "rate": 3
    },
    {
       "de": "finden",
       "en": "find",
       "type": "verben",
-      "date": "2024-10-04",
+      "date": "2024-10-07",
       "rate": 4
    },
    {
       "de": "gefallen",
       "en": "fallen",
       "type": "verben",
-      "date": "2024-10-04",
+      "date": "2024-10-09",
       "rate": 1
    },
    {
       "de": "gehoren zu",
       "en": "belong to",
       "type": "verben",
-      "date": "2024-10-04",
-      "rate": 1
+      "date": "2024-10-09",
+      "rate": 2
    },
    {
       "de": "kritisieren",
       "en": "criticize",
       "type": "verben",
-      "date": "2024-10-02",
-      "rate": 0
+      "date": "2024-10-09",
+      "rate": 2
    },
    {
       "de": "kundigen",
       "en": "quit",
       "type": "verben",
-      "date": "2024-10-04",
-      "rate": 2
+      "date": "2024-10-09",
+      "rate": 0
    },
    {
       "de": "lugen",
       "en": "lie",
       "type": "verben",
       "date": "2024-10-04",
-      "rate": 2
+      "rate": 0
    },
    {
       "de": "sich vorstellen",
       "en": "introduce yourself",
       "type": "verben",
-      "date": "2024-10-04",
-      "rate": 1
+      "date": "2024-10-09",
+      "rate": 2
    },
    {
       "de": "zahlen",
       "en": "pay",
       "type": "verben",
-      "date": "2024-10-04",
-      "rate": 2
+      "date": "2024-10-09",
+      "rate": 4
    },
    {
       "de": "der Angestellte",
       "en": "the employee",
       "type": "nomen",
-      "date": "2024-10-02",
+      "date": "2024-10-09",
       "rate": 0
    },
    {
       "de": "der Anzug",
       "en": "the suit",
       "type": "nomen",
-      "date": "2024-10-04",
-      "rate": 4
+      "date": "2024-10-09",
+      "rate": 9
    },
    {
       "de": "der Arbeitgeber",
       "en": "the employer",
       "type": "nomen",
-      "date": "2024-10-04",
-      "rate": 1
+      "date": "2024-10-09",
+      "rate": 3
    },
    {
       "de": "der Arbeitsamt",
@@ -122,99 +122,99 @@
       "de": "das Auge",
       "en": "the eye",
       "type": "nomen",
-      "date": "2024-10-04",
-      "rate": 2
+      "date": "2024-10-09",
+      "rate": 4
    },
    {
       "de": "das Badezimmer",
       "en": "the bathroom",
       "type": "nomen",
-      "date": "2024-10-04",
-      "rate": 1
+      "date": "2024-10-09",
+      "rate": 4
    },
    {
       "de": "der Bauch",
       "en": "the belly",
       "type": "nomen",
-      "date": "2024-10-04",
-      "rate": 4
+      "date": "2024-10-09",
+      "rate": 6
    },
    {
       "de": "die Bluse",
       "en": "the blouse",
       "type": "nomen",
-      "date": "2024-10-04",
-      "rate": 1
+      "date": "2024-10-09",
+      "rate": 2
    },
    {
       "de": "die Brille",
       "en": "the glasses",
       "type": "nomen",
-      "date": "2024-10-04",
-      "rate": 3
+      "date": "2024-10-09",
+      "rate": 8
    },
    {
       "de": "das Ergebnis",
       "en": "the result",
       "type": "nomen",
       "date": "2024-10-04",
-      "rate": 2
+      "rate": 0
    },
    {
       "de": "der Feind",
       "en": "the enemy",
       "type": "nomen",
-      "date": "2024-10-04",
-      "rate": 2
+      "date": "2024-10-09",
+      "rate": 5
    },
    {
       "de": "das Gesicht",
       "en": "the face",
       "type": "nomen",
-      "date": "2024-10-04",
-      "rate": 3
+      "date": "2024-10-09",
+      "rate": 5
    },
    {
       "de": "the hair",
       "en": "das Haar",
       "type": "nomen",
       "date": "2024-10-04",
-      "rate": 1
+      "rate": 0
    },
    {
       "de": "der Hals",
       "en": "the neck",
       "type": "nomen",
-      "date": "2024-10-04",
-      "rate": 4
+      "date": "2024-10-09",
+      "rate": 6
    },
    {
       "de": "das Hemd",
       "en": "the shirt",
       "type": "nomen",
       "date": "2024-10-04",
-      "rate": 1
+      "rate": 0
    },
    {
       "de": "die Hochzeit",
       "en": "the wedding",
       "type": "nomen",
-      "date": "2024-10-04",
+      "date": "2024-10-07",
       "rate": 1
    },
    {
       "de": "die Hose",
       "en": "the pants",
       "type": "nomen",
-      "date": "2024-10-02",
+      "date": "2024-10-07",
       "rate": 0
    },
    {
       "de": "die Krawatte",
       "en": "the tie",
       "type": "nomen",
-      "date": "2024-10-04",
-      "rate": 1
+      "date": "2024-10-09",
+      "rate": 8
    },
    {
       "de": "die Leistung",
@@ -234,15 +234,15 @@
       "de": "die Meinung",
       "en": "the opinion",
       "type": "nomen",
-      "date": "2024-10-04",
-      "rate": 3
+      "date": "2024-10-09",
+      "rate": 2
    },
    {
       "de": "der mund",
       "en": "the mouth",
       "type": "nomen",
-      "date": "2024-10-04",
-      "rate": 2
+      "date": "2024-10-09",
+      "rate": 4
    },
    {
       "de": "der Musiker",
@@ -262,22 +262,22 @@
       "de": "der Punkt",
       "en": "the point",
       "type": "nomen",
-      "date": "2024-10-02",
-      "rate": 0
+      "date": "2024-10-09",
+      "rate": 3
    },
    {
       "de": "der Rechtsanwalt",
       "en": "the lawyer",
       "type": "nomen",
-      "date": "2024-10-02",
-      "rate": 0
+      "date": "2024-10-09",
+      "rate": 3
    },
    {
       "de": "die Stelle",
       "en": "the spot",
       "type": "nomen",
-      "date": "2024-10-04",
-      "rate": 1
+      "date": "2024-10-09",
+      "rate": 2
    },
    {
       "de": "die Strickjacke",
@@ -290,64 +290,64 @@
       "de": "der Strumpf",
       "en": "the stocking",
       "type": "nomen",
-      "date": "2024-10-04",
-      "rate": 2
+      "date": "2024-10-09",
+      "rate": 5
    },
    {
       "de": "der Test",
       "en": "the test",
       "type": "nomen",
-      "date": "2024-10-04",
-      "rate": 1
+      "date": "2024-10-09",
+      "rate": 6
    },
    {
       "de": "das Vorurteil",
       "en": "the prejudice",
       "type": "nomen",
-      "date": "2024-10-04",
-      "rate": 0
+      "date": "2024-10-09",
+      "rate": 1
    },
    {
       "de": "angenehm",
       "en": "pleasant",
       "type": "dajektive",
-      "date": "2024-10-02",
-      "rate": 0
+      "date": "2024-10-09",
+      "rate": 1
    },
    {
       "de": "arm",
       "en": "arm",
       "type": "adjektive",
-      "date": "2024-10-04",
-      "rate": 2
+      "date": "2024-10-09",
+      "rate": 4
    },
    {
       "de": "ahnlich",
       "en": "similar",
       "type": "adjektive",
-      "date": "2024-10-04",
+      "date": "2024-10-09",
       "rate": 3
    },
    {
       "de": "dick",
       "en": "thick",
       "type": "adjektive",
-      "date": "2024-10-02",
-      "rate": 0
+      "date": "2024-10-09",
+      "rate": 4
    },
    {
       "de": "dunn",
       "en": "thin",
       "type": "adjektive",
-      "date": "2024-10-04",
-      "rate": 1
+      "date": "2024-10-09",
+      "rate": 3
    },
    {
       "de": "dumm",
       "en": "dumb",
       "type": "adjektive",
-      "date": "2024-10-04",
-      "rate": 1
+      "date": "2024-10-09",
+      "rate": 5
    },
    {
       "de": "ehrlich",
@@ -360,29 +360,29 @@
       "de": "gefahrlich",
       "en": "dangerous",
       "type": "adjektive",
-      "date": "2024-10-02",
-      "rate": 0
+      "date": "2024-10-09",
+      "rate": 3
    },
    {
       "de": "gemutlich",
       "en": "cozy",
       "type": "adjektive",
-      "date": "2024-10-04",
-      "rate": 3
+      "date": "2024-10-09",
+      "rate": 6
    },
    {
       "de": "hasslich",
       "en": "ugly",
       "type": "adjektive",
-      "date": "2024-10-04",
-      "rate": 1
+      "date": "2024-10-07",
+      "rate": 2
    },
    {
       "de": "klug",
       "en": "smart",
       "type": "adjektive",
-      "date": "2024-10-04",
-      "rate": 1
+      "date": "2024-10-09",
+      "rate": 6
    },
    {
       "de": "komisch",
@@ -395,7 +395,7 @@
       "de": "konservativ",
       "en": "conservative",
       "type": "adjektive",
-      "date": "2024-10-02",
+      "date": "2024-10-07",
       "rate": 0
    },
    {
@@ -409,64 +409,64 @@
       "de": "punktlich",
       "en": "on time",
       "type": "adjektive",
-      "date": "2024-10-04",
-      "rate": 1
+      "date": "2024-10-09",
+      "rate": 5
    },
    {
       "de": "rund",
       "en": "around",
       "type": "adjektive",
-      "date": "2024-10-02",
-      "rate": 0
+      "date": "2024-10-09",
+      "rate": 5
    },
    {
       "de": "schlank",
       "en": "slim",
       "type": "adjektive",
-      "date": "2024-10-04",
-      "rate": 1
+      "date": "2024-10-09",
+      "rate": 5
    },
    {
       "de": "schmal",
       "en": "narrow",
       "type": "adjektive",
       "date": "2024-10-04",
-      "rate": 4
+      "rate": 3
    },
    {
       "de": "treu",
       "en": "faithful",
       "type": "adjektive",
-      "date": "2024-10-02",
+      "date": "2024-10-09",
       "rate": 0
    },
    {
       "de": "verruckt",
       "en": "crazy",
       "type": "adjektive",
-      "date": "2024-10-04",
-      "rate": 3
+      "date": "2024-10-09",
+      "rate": 6
    },
    {
       "de": "weich",
       "en": "soft",
       "type": "adjektive",
-      "date": "2024-10-02",
-      "rate": 0
+      "date": "2024-10-09",
+      "rate": 2
    },
    {
       "de": "bestimmt",
       "en": "certainly",
       "type": "adverbien",
-      "date": "2024-10-04",
-      "rate": 4
+      "date": "2024-10-09",
+      "rate": 9
    },
    {
       "de": "etwa",
       "en": "approximately",
       "type": "adverbien",
-      "date": "2024-10-04",
-      "rate": 2
+      "date": "2024-10-09",
+      "rate": 3
    },
    {
       "de": "meinetwegen",
@@ -479,8 +479,8 @@
       "de": "meistens",
       "en": "mostly",
       "type": "adverbien",
-      "date": "2024-10-02",
-      "rate": 0
+      "date": "2024-10-09",
+      "rate": 1
    },
    {
       "de": "sonst",
@@ -493,14 +493,14 @@
       "de": "weiter",
       "en": "further",
       "type": "adverbien",
-      "date": "2024-10-04",
-      "rate": 1
+      "date": "2024-10-09",
+      "rate": 4
    },
    {
       "de": "ziemlich",
       "en": "quite",
       "type": "adverbien",
       "date": "2024-10-04",
-      "rate": 1
+      "rate": 0
    }
 ]

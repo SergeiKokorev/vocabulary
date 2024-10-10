@@ -4,7 +4,7 @@
       "en": "report",
       "type": "verbenen",
       "date": "2024-10-04",
-      "rate": 3
+      "rate": 2
    },
    {
       "de": "besichtigen",
@@ -17,64 +17,64 @@
       "de": "bestehen",
       "en": "consist",
       "type": "verben",
-      "date": "2024-10-01",
-      "rate": 2
+      "date": "2024-10-07",
+      "rate": 3
    },
    {
       "de": "erfinden",
       "en": "invent",
       "type": "verben",
-      "date": "2024-10-04",
-      "rate": 6
+      "date": "2024-10-07",
+      "rate": 5
    },
    {
       "de": "fliesen",
       "en": "flow",
       "type": "verben",
-      "date": "2024-10-04",
-      "rate": 4
+      "date": "2024-10-07",
+      "rate": 6
    },
    {
       "de": "gehoren",
       "en": "belong",
       "type": "verben",
-      "date": "2024-10-04",
+      "date": "2024-10-07",
       "rate": 10
    },
    {
       "de": "wachsen",
       "en": "grow",
       "type": "verben",
-      "date": "2024-10-04",
-      "rate": 7
+      "date": "2024-10-07",
+      "rate": 9
    },
    {
       "de": "wahlen",
       "en": "choose",
       "type": "verben",
-      "date": "2024-10-04",
+      "date": "2024-10-07",
       "rate": 3
    },
    {
       "de": "wandern",
       "en": "hike",
       "type": "verben",
-      "date": "2024-10-04",
-      "rate": 9
+      "date": "2024-10-07",
+      "rate": 10
    },
    {
       "de": "der Bach",
       "en": "the stream",
       "type": "nomen",
-      "date": "2024-10-04",
-      "rate": 4
+      "date": "2024-10-07",
+      "rate": 7
    },
    {
       "de": "der Bau",
       "en": "the construction",
       "type": "nomen",
       "date": "2024-10-04",
-      "rate": 3
+      "rate": 2
    },
    {
       "de": "der Berg",
@@ -87,57 +87,57 @@
       "de": "die Brucke",
       "en": "the bridge",
       "type": "nomen",
-      "date": "2024-10-04",
-      "rate": 8
+      "date": "2024-10-07",
+      "rate": 9
    },
    {
       "de": "das Datum",
       "en": "the date",
       "type": "nomen",
-      "date": "2024-10-02",
-      "rate": 3
+      "date": "2024-10-07",
+      "rate": 8
    },
    {
       "de": "das Denkmal",
       "en": "the monument",
       "type": "nomen",
-      "date": "2024-10-04",
-      "rate": 8
+      "date": "2024-10-07",
+      "rate": 10
    },
    {
       "de": "das Elektrogerat",
       "en": "the electrical appliance",
       "type": "nomen",
-      "date": "2024-10-04",
-      "rate": 6
+      "date": "2024-10-07",
+      "rate": 8
    },
    {
       "de": "das Ende",
       "en": "the end",
       "type": "nomen",
       "date": "2024-10-04",
-      "rate": 10
+      "rate": 9
    },
    {
       "de": "der Fluss",
       "en": "the river",
       "type": "nomen",
       "date": "2024-10-04",
-      "rate": 10
+      "rate": 8
    },
    {
       "de": "das Gasthaus",
       "en": "the inn",
       "type": "nomen",
-      "date": "2024-10-04",
-      "rate": 8
+      "date": "2024-10-07",
+      "rate": 10
    },
    {
       "de": "das Gebiet",
       "en": "the area",
       "type": "nomen",
-      "date": "2024-09-06",
-      "rate": 0
+      "date": "2024-10-07",
+      "rate": 3
    },
    {
       "de": "die Grenze",
@@ -150,113 +150,113 @@
       "de": "der Hafen",
       "en": "the port",
       "type": "nomen",
-      "date": "2024-10-04",
-      "rate": 8
+      "date": "2024-10-07",
+      "rate": 10
    },
    {
       "de": "die Kneipe",
       "en": "the pub",
       "type": "nomen",
-      "date": "2024-10-04",
+      "date": "2024-10-07",
       "rate": 10
    },
    {
       "de": "die Kuste",
       "en": "the coast",
       "type": "nomen",
-      "date": "2024-10-04",
-      "rate": 6
+      "date": "2024-10-07",
+      "rate": 9
    },
    {
       "de": "Lebensmittel",
       "en": "Groceries",
       "type": "nomen",
-      "date": "2024-10-01",
-      "rate": 6
+      "date": "2024-10-07",
+      "rate": 8
    },
    {
       "de": "die Nation",
       "en": "the nation",
       "type": "nomen",
-      "date": "2024-10-04",
-      "rate": 9
+      "date": "2024-10-07",
+      "rate": 10
    },
    {
       "de": "die Pension",
       "en": "the pension",
       "type": "nomen",
-      "date": "2024-10-04",
+      "date": "2024-10-07",
       "rate": 10
    },
    {
       "de": "die Ruine",
       "en": "the ruin",
       "type": "nomen",
-      "date": "2024-10-04",
+      "date": "2024-10-07",
       "rate": 10
    },
    {
       "de": "die Schriftstellerin",
       "en": "the writer",
       "type": "nomen",
-      "date": "2024-10-04",
-      "rate": 8
+      "date": "2024-10-07",
+      "rate": 10
    },
    {
       "de": "die Sehenswurdigkeit",
       "en": "the sight",
       "type": "nomen",
       "date": "2024-09-10",
-      "rate": 1
+      "rate": 0
    },
    {
       "de": "der Sitz",
       "en": "the seat",
       "type": "nomen",
-      "date": "2024-10-04",
-      "rate": 3
+      "date": "2024-10-07",
+      "rate": 5
    },
    {
       "de": "die Sprache",
       "en": "the language",
       "type": "nomen",
-      "date": "2024-10-04",
-      "rate": 5
+      "date": "2024-10-07",
+      "rate": 7
    },
    {
       "de": "der Staat",
       "en": "the State",
       "type": "nomen",
-      "date": "2024-10-01",
-      "rate": 0
+      "date": "2024-10-07",
+      "rate": 1
    },
    {
       "de": "der Tod",
       "en": "the death",
       "type": "nomen",
-      "date": "2024-10-04",
+      "date": "2024-10-07",
       "rate": 10
    },
    {
       "de": "das Werk",
       "en": "the factory",
       "type": "nomen",
-      "date": "2024-10-04",
-      "rate": 5
+      "date": "2024-10-07",
+      "rate": 8
    },
    {
       "de": "das Zentrum",
       "en": "the center",
       "type": "nomen",
-      "date": "2024-10-04",
-      "rate": 9
+      "date": "2024-10-07",
+      "rate": 10
    },
    {
       "de": "endgultig",
       "en": "finally",
       "type": "adjektive",
       "date": "2024-10-04",
-      "rate": 1
+      "rate": 0
    },
    {
       "de": "fertig",
@@ -269,35 +269,35 @@
       "de": "offiziell",
       "en": "officially",
       "type": "adjektive",
-      "date": "2024-10-04",
-      "rate": 7
+      "date": "2024-10-07",
+      "rate": 10
    },
    {
       "de": "tief",
       "en": "deep",
       "type": "adjektive",
-      "date": "2024-10-04",
-      "rate": 5
+      "date": "2024-10-07",
+      "rate": 6
    },
    {
       "de": "damals",
       "en": "at that time",
       "type": "adverbien",
-      "date": "2024-10-04",
-      "rate": 2
+      "date": "2024-10-07",
+      "rate": 3
    },
    {
       "de": "daher",
       "en": "therefore",
       "type": "adverbien",
-      "date": "2024-10-04",
-      "rate": 5
+      "date": "2024-10-07",
+      "rate": 9
    },
    {
       "de": "Passen Sie auf",
       "en": "Be careful",
       "type": "ausdrucke",
-      "date": "2024-10-04",
-      "rate": 5
+      "date": "2024-10-07",
+      "rate": 10
    }
 ]

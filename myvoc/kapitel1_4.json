@@ -10,14 +10,14 @@
       "de": "anziehen",
       "en": "put on",
       "type": "verbs",
-      "date": "2024-10-01",
-      "rate": 6
+      "date": "2024-10-10",
+      "rate": 8
    },
    {
       "de": "aufhoren",
       "en": "stop",
       "type": "verbs",
-      "date": "2024-10-02",
+      "date": "2024-10-10",
       "rate": 9
    },
    {
@@ -25,27 +25,27 @@
       "en": "open up",
       "type": "verbs",
       "date": "2024-09-10",
-      "rate": 3
+      "rate": 2
    },
    {
       "de": "aufraumen",
       "en": "clean up",
       "type": "verbs",
-      "date": "2024-10-02",
-      "rate": 3
+      "date": "2024-10-10",
+      "rate": 7
    },
    {
       "de": "aufstehen",
       "en": "stand up",
       "type": "verbs",
-      "date": "2024-10-02",
+      "date": "2024-10-10",
       "rate": 10
    },
    {
       "de": "bedienen",
       "en": "serve",
       "type": "verbs",
-      "date": "2024-10-02",
+      "date": "2024-10-10",
       "rate": 6
    },
    {
@@ -66,64 +66,64 @@
       "de": "durfen",
       "en": "may",
       "type": "verbs",
-      "date": "2024-10-02",
+      "date": "2024-10-10",
       "rate": 10
    },
    {
       "de": "duschen",
       "en": "have a shower",
       "type": "verbs",
-      "date": "2024-10-02",
+      "date": "2024-10-10",
       "rate": 10
    },
    {
       "de": "einkaufen",
       "en": "shopping",
       "type": "verbs",
-      "date": "2024-10-02",
+      "date": "2024-10-10",
       "rate": 10
    },
    {
       "de": "einladen",
       "en": "invite",
       "type": "verbs",
-      "date": "2024-09-11",
+      "date": "2024-10-10",
       "rate": 10
    },
    {
       "de": "feiern",
       "en": "celebrate",
       "type": "verbs",
-      "date": "2024-10-01",
+      "date": "2024-10-10",
       "rate": 10
    },
    {
       "de": "fernsehen",
       "en": "watch TV",
       "type": "verbs",
-      "date": "2024-10-01",
+      "date": "2024-10-10",
       "rate": 10
    },
    {
       "de": "fotografieren",
       "en": "taking photos",
       "type": "verbs",
-      "date": "2024-10-02",
+      "date": "2024-10-10",
       "rate": 10
    },
    {
       "de": "fruhstucken",
       "en": "have breakfast",
       "type": "verbs",
-      "date": "2024-10-01",
-      "rate": 7
+      "date": "2024-10-10",
+      "rate": 10
    },
    {
       "de": "holen",
       "en": "pick up",
       "type": "verbs",
-      "date": "2024-07-24",
-      "rate": 0
+      "date": "2024-10-10",
+      "rate": 1
    },
    {
       "de": "kontrollieren",
@@ -136,7 +136,7 @@
       "de": "konnen",
       "en": "can",
       "type": "verbs",
-      "date": "2024-10-02",
+      "date": "2024-10-10",
       "rate": 10
    },
    {
@@ -144,42 +144,42 @@
       "en": "measure",
       "type": "verbs",
       "date": "2024-10-02",
-      "rate": 1
+      "rate": 0
    },
    {
       "de": "mitbringen",
       "en": "bring along",
       "type": "verbs",
-      "date": "2024-09-30",
+      "date": "2024-10-10",
       "rate": 10
    },
    {
       "de": "mitkommen",
       "en": "come along",
       "type": "verbs",
-      "date": "2024-09-30",
-      "rate": 9
+      "date": "2024-10-10",
+      "rate": 10
    },
    {
       "de": "mussen",
       "en": "must",
       "type": "verbs",
-      "date": "2024-10-02",
+      "date": "2024-10-10",
       "rate": 10
    },
    {
       "de": "ordnen",
       "en": "arrange",
       "type": "verbs",
-      "date": "2024-09-30",
+      "date": "2024-10-10",
       "rate": 10
    },
    {
       "de": "rauchen",
       "en": "smoke",
       "type": "verbs",
-      "date": "2024-09-10",
-      "rate": 7
+      "date": "2024-10-10",
+      "rate": 8
    },
    {
       "de": "schlafen",
@@ -192,42 +192,42 @@
       "de": "schneiden",
       "en": "cut",
       "type": "verbs",
-      "date": "2024-10-01",
+      "date": "2024-10-10",
       "rate": 10
    },
    {
       "de": "schwimmen",
       "en": "to swim",
       "type": "verbs",
-      "date": "2024-09-30",
-      "rate": 7
+      "date": "2024-10-10",
+      "rate": 9
    },
    {
       "de": "sehen",
       "en": "see",
       "type": "verbs",
-      "date": "2024-10-02",
+      "date": "2024-10-10",
       "rate": 10
    },
    {
       "de": "spazieren gehen",
       "en": "go for a stroll",
       "type": "verbs",
-      "date": "2024-10-02",
-      "rate": 7
+      "date": "2024-10-10",
+      "rate": 8
    },
    {
       "de": "stattfinden",
       "en": "take place",
       "type": "verbs",
       "date": "2024-09-30",
-      "rate": 10
+      "rate": 9
    },
    {
       "de": "storen",
       "en": "disturb",
       "type": "verbs",
-      "date": "2024-10-02",
+      "date": "2024-10-10",
       "rate": 10
    },
    {
@@ -249,20 +249,20 @@
       "en": "compare",
       "type": "verbs",
       "date": "2024-10-01",
-      "rate": 2
+      "rate": 1
    },
    {
       "de": "vorbereiten",
       "en": "prepare",
       "type": "verbs",
-      "date": "2024-10-01",
+      "date": "2024-10-10",
       "rate": 7
    },
    {
       "de": "vorhaben",
       "en": "plan",
       "type": "verbs",
-      "date": "2024-10-02",
+      "date": "2024-10-10",
       "rate": 10
    },
    {
@@ -277,7 +277,7 @@
       "en": "listen",
       "type": "verbs",
       "date": "2024-10-02",
-      "rate": 1
+      "rate": 0
    },
    {
       "de": "der Abend",
@@ -297,7 +297,7 @@
       "de": "die Arbeit",
       "en": "the work",
       "type": "nouns",
-      "date": "2024-10-01",
+      "date": "2024-10-10",
       "rate": 10
    },
    {
@@ -311,8 +311,8 @@
       "de": "der Backer",
       "en": "the Baker",
       "type": "nouns",
-      "date": "2024-09-10",
-      "rate": 4
+      "date": "2024-10-10",
+      "rate": 6
    },
    {
       "de": "die Bank",
@@ -325,14 +325,14 @@
       "de": "die Bar",
       "en": "the bar",
       "type": "nouns",
-      "date": "2024-10-01",
-      "rate": 7
+      "date": "2024-10-10",
+      "rate": 9
    },
    {
       "de": "die Bibliothek",
       "en": "the library",
       "type": "nouns",
-      "date": "2024-10-01",
+      "date": "2024-10-10",
       "rate": 9
    },
    {
@@ -360,32 +360,32 @@
       "de": "der Donnerstag",
       "en": "Thursday",
       "type": "nouns",
-      "date": "2024-10-02",
+      "date": "2024-10-10",
       "rate": 1
    },
    {
       "de": "die Dusche",
       "en": "the shower",
       "type": "nouns",
-      "date": "2024-10-01",
-      "rate": 8
+      "date": "2024-10-10",
+      "rate": 9
    },
    {
       "de": "der Eintritt",
       "en": "the entry",
       "type": "nouns",
       "date": "2024-09-30",
-      "rate": 1
+      "rate": 0
    },
    {
       "de": "das Essen",
       "en": "the food",
       "type": "nouns",
-      "date": "2024-10-02",
+      "date": "2024-10-10",
       "rate": 10
    },
    {
-      "de": "das Fernsehen",
+      "de": "das Fernseher",
       "en": "the television",
       "type": "nouns",
       "date": "2024-09-06",
@@ -395,35 +395,35 @@
       "de": "das Fieber",
       "en": "the fever",
       "type": "nouns",
-      "date": "2024-07-24",
-      "rate": 0
+      "date": "2024-10-10",
+      "rate": 2
    },
    {
       "de": "der Film",
       "en": "the film",
       "type": "nouns",
-      "date": "2024-10-01",
-      "rate": 6
+      "date": "2024-10-10",
+      "rate": 7
    },
    {
       "de": "die Freizeit",
       "en": "leisure",
       "type": "nouns",
-      "date": "2024-09-30",
-      "rate": 1
+      "date": "2024-10-10",
+      "rate": 3
    },
    {
       "de": "die Friseurin",
       "en": "the hairdresser",
       "type": "nouns",
-      "date": "2024-09-30",
-      "rate": 4
+      "date": "2024-10-10",
+      "rate": 6
    },
    {
       "de": "der Gast",
       "en": "the guest",
       "type": "nouns",
-      "date": "2024-09-30",
+      "date": "2024-10-10",
       "rate": 10
    },
    {
@@ -437,63 +437,63 @@
       "de": "der Juli",
       "en": "July",
       "type": "nouns",
-      "date": "2024-09-11",
-      "rate": 6
+      "date": "2024-10-10",
+      "rate": 7
    },
    {
       "de": "der Kellner",
       "en": "the waiter",
       "type": "nouns",
-      "date": "2024-09-11",
+      "date": "2024-10-10",
       "rate": 7
    },
    {
       "de": "das Kino",
       "en": "the cinema",
       "type": "nouns",
-      "date": "2024-10-01",
+      "date": "2024-10-10",
       "rate": 10
    },
    {
       "de": "das Kleid",
       "en": "the dress",
       "type": "nouns",
-      "date": "2024-09-30",
+      "date": "2024-10-10",
       "rate": 10
    },
    {
       "de": "das Krankenhaus",
       "en": "the hospital",
       "type": "nouns",
-      "date": "2024-10-02",
-      "rate": 9
+      "date": "2024-10-10",
+      "rate": 10
    },
    {
       "de": "die Krankenschwester",
       "en": "the nurse",
       "type": "nouns",
-      "date": "2024-10-01",
-      "rate": 4
+      "date": "2024-10-10",
+      "rate": 5
    },
    {
       "de": "die Lehrerin",
       "en": "the teacher",
       "type": "nouns",
       "date": "2024-09-10",
-      "rate": 2
+      "rate": 1
    },
    {
       "de": "die Mannschaft",
       "en": "the team",
       "type": "nouns",
       "date": "2024-10-02",
-      "rate": 10
+      "rate": 9
    },
    {
       "de": "die Maschine",
       "en": "the machine",
       "type": "nouns",
-      "date": "2024-10-02",
+      "date": "2024-10-10",
       "rate": 10
    },
    {
@@ -501,14 +501,14 @@
       "en": "the sea",
       "type": "nouns",
       "date": "2024-10-01",
-      "rate": 1
+      "rate": 0
    },
    {
       "de": "der Mensch",
       "en": "the human being",
       "type": "nouns",
-      "date": "2024-09-06",
-      "rate": 2
+      "date": "2024-10-10",
+      "rate": 4
    },
    {
       "de": "der Mittag",
@@ -521,8 +521,8 @@
       "de": "das Mittagessen",
       "en": "lunch",
       "type": "nouns",
-      "date": "2024-10-02",
-      "rate": 7
+      "date": "2024-10-10",
+      "rate": 10
    },
    {
       "de": "der Mittwoch",
@@ -535,7 +535,7 @@
       "de": "der Montag",
       "en": "the Monday",
       "type": "nouns",
-      "date": "2024-10-01",
+      "date": "2024-10-10",
       "rate": 10
    },
    {
@@ -543,7 +543,7 @@
       "en": "the music",
       "type": "nouns",
       "date": "2024-10-01",
-      "rate": 6
+      "rate": 5
    },
    {
       "de": "der Passagier",
@@ -556,21 +556,21 @@
       "de": "die Pause",
       "en": "the break",
       "type": "nouns",
-      "date": "2024-10-01",
+      "date": "2024-10-10",
       "rate": 10
    },
    {
       "de": "das Restaurant",
       "en": "the restaurant",
       "type": "nouns",
-      "date": "2024-09-30",
+      "date": "2024-10-10",
       "rate": 10
    },
    {
       "de": "der Samstag",
       "en": "the Saturday",
       "type": "nouns",
-      "date": "2024-10-01",
+      "date": "2024-10-10",
       "rate": 10
    },
    {
@@ -584,8 +584,8 @@
       "de": "das Schild",
       "en": "the shield",
       "type": "nouns",
-      "date": "2024-09-30",
-      "rate": 3
+      "date": "2024-10-10",
+      "rate": 5
    },
    {
       "de": "das Schwimmbad",
@@ -598,7 +598,7 @@
       "de": "die Situation",
       "en": "the situation",
       "type": "nouns",
-      "date": "2024-10-02",
+      "date": "2024-10-10",
       "rate": 10
    },
    {
@@ -612,8 +612,8 @@
       "de": "der Sonntag",
       "en": "Sunday",
       "type": "nouns",
-      "date": "2024-10-01",
-      "rate": 4
+      "date": "2024-10-10",
+      "rate": 5
    },
    {
       "de": "der Spaziergang",
@@ -640,7 +640,7 @@
       "de": "die Uhrzeit",
       "en": "the time",
       "type": "nouns",
-      "date": "2024-10-01",
+      "date": "2024-10-10",
       "rate": 4
    },
    {
@@ -654,8 +654,8 @@
       "de": "das Viertel",
       "en": "the quarter",
       "type": "nouns",
-      "date": "2024-09-11",
-      "rate": 0
+      "date": "2024-10-10",
+      "rate": 2
    },
    {
       "de": "der Vortrag",
@@ -668,14 +668,14 @@
       "de": "die Wohnung",
       "en": "the apartment",
       "type": "nouns",
-      "date": "2024-09-11",
+      "date": "2024-10-10",
       "rate": 1
    },
    {
       "de": "die Zeitung",
       "en": "the newspaper",
       "type": "nouns",
-      "date": "2024-10-02",
+      "date": "2024-10-10",
       "rate": 10
    },
    {
@@ -690,21 +690,21 @@
       "en": "open",
       "type": "adjectives",
       "date": "2024-10-01",
-      "rate": 6
+      "rate": 5
    },
    {
       "de": "geschlossen",
       "en": "closed",
       "type": "adjectives",
-      "date": "2024-09-10",
-      "rate": 0
+      "date": "2024-10-10",
+      "rate": 1
    },
    {
       "de": "herrlich",
       "en": "splendid",
       "type": "adjectives",
       "date": "2024-09-11",
-      "rate": 2
+      "rate": 1
    },
    {
       "de": "leise",
@@ -718,7 +718,7 @@
       "en": "next",
       "type": "adjectives",
       "date": "2024-10-01",
-      "rate": 6
+      "rate": 5
    },
    {
       "de": "nett",
@@ -731,21 +731,21 @@
       "de": "obligatorisch",
       "en": "mandatory",
       "type": "adjectives",
-      "date": "2024-10-01",
+      "date": "2024-10-10",
       "rate": 10
    },
    {
       "de": "spat",
       "en": "late",
       "type": "adjectives",
-      "date": "2024-10-01",
+      "date": "2024-10-10",
       "rate": 10
    },
    {
       "de": "verboten",
       "en": "forbidden",
       "type": "adjectives",
-      "date": "2024-09-11",
-      "rate": 0
+      "date": "2024-10-10",
+      "rate": 1
    }
 ]
